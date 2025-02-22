@@ -1,0 +1,1227 @@
+date,room,time,group,class,session,tutor
+2025-03-10,LI6,09:00-10:30,1i,Conference,2,MS/KA
+2025-03-10,LI6,10:45-12:15,1i,Conference,2,MS/KA
+2025-03-10,LI6,12:45-14:15,1ii,Conference,2,MS
+2025-03-10,LI6,14:30-16:00,1ii,Conference,2,MS
+2025-03-10,LI7,09:00-10:30,2i,Conference,2,SS
+2025-03-10,LI7,10:45-12:15,2i,Conference,2,SS
+2025-03-10,LI7,12:45-14:15,2ii,Conference,2,SS
+2025-03-10,LI7,14:30-16:00,2ii,Conference,2,SS
+2025-03-10,LI8,09:00-10:30,3i,Conference,2,GVS/MM
+2025-03-10,LI8,10:45-12:15,3i,Conference,2,GVS/MM
+2025-03-10,LI8,12:45-14:15,3ii,Conference,2,GVS
+2025-03-10,LI8,14:30-16:00,3ii,Conference,2,GVS
+2025-03-10,LI9,09:00-10:30,1iii,Conference,2,EA/MF
+2025-03-10,LI9,10:45-12:15,1iii,Conference,2,EA/MF
+2025-03-10,LI9,12:45-14:15,2iii,Conference,2,SB/MF
+2025-03-10,LI9,14:30-16:00,2iii,Conference,2,SB/MF
+2025-03-10,14 SS,09:00-10:30,3iii,Conference,2,DK
+2025-03-10,14 SS,10:45-12:15,3iii,Conference,2,DK
+2025-03-10,14 SS,12:45-14:15,13ii,Conference,2,DK
+2025-03-10,14 SS,14:30-16:00,13ii,Conference,2,DK
+2025-03-10,GH,09:00-10:30,12,Civil Advocacy,2,RS/BP
+2025-03-10,GH,10:45-12:15,10,Civil Advocacy,2,RS
+2025-03-10,GH,14:30-16:00,9,Civil Advocacy,2,RS
+2025-03-10,GBIRK,09:00-10:30,13,Criminal Advocacy,3,PA
+2025-03-10,GBIRK,10:45-12:15,8,Criminal Advocacy,3,PA
+2025-03-10,GBIRK,12:45-14:15,7,Criminal Advocacy,3,PA
+2025-03-10,GBIRK,14:30-16:00,6,Criminal Advocacy,3,PA
+2025-03-11,LI6,09:00-10:30,6iii,Conference,2,MM
+2025-03-11,LI6,10:45-12:15,6iii,Conference,2,MM
+2025-03-11,LI6,12:45-14:15,13i,Conference,2,MS
+2025-03-11,LI6,14:30-16:00,13i,Conference,2,MS
+2025-03-11,LI7,09:00-10:30,4ii,Conference,2,SB
+2025-03-11,LI7,10:45-12:15,4ii,Conference,2,SB
+2025-03-11,LI7,12:45-14:15,5ii,Conference,2,SB
+2025-03-11,LI7,14:30-16:00,5ii,Conference,2,SB
+2025-03-11,LI8,09:00-10:30,4i,Conference,2,DK
+2025-03-11,LI8,10:45-12:15,4i,Conference,2,DK
+2025-03-11,LI8,12:45-14:15,5i,Conference,2,GVS
+2025-03-11,LI8,14:30-16:00,5i,Conference,2,GVS
+2025-03-11,LI9,09:00-10:30,4iii,Conference,2,EA
+2025-03-11,LI9,10:45-12:15,4iii,Conference,2,EA
+2025-03-11,LI9,12:45-14:15,5iii,Conference,2,EA
+2025-03-11,LI9,14:30-16:00,5iii,Conference,2,EA
+2025-03-11,14 SS,09:00-10:30,6i,Conference,2,SS
+2025-03-11,14 SS,10:45-12:15,6i,Conference,2,SS
+2025-03-11,14 SS,12:45-14:15,8ii,Conference,2,SS
+2025-03-11,14 SS,14:30-16:00,8ii,Conference,2,SS
+2025-03-11,GH,09:00-10:30,8,Civil Advocacy,2,MJ
+2025-03-11,GH,10:45-12:15,3,Civil Advocacy,2,MJ
+2025-03-11,GH,14:30-16:00,2,Civil Advocacy,2,MJ
+2025-03-11,GRH,09:00-10:30,7,Civil Advocacy,2,RS
+2025-03-11,GRH,10:45-12:15,11,Civil Advocacy,2,RS
+2025-03-11,GRH,14:30-16:00,4,Civil Advocacy,2,RS
+2025-03-11,GBIRK,09:00-10:30,9,Criminal Advocacy,3,PA
+2025-03-11,GBIRK,10:45-12:15,12,Criminal Advocacy,3,PA
+2025-03-11,GBIRK,14:30-16:00,10,Criminal Advocacy,3,PA
+2025-03-11,GBING1,09:00-10:30,13,Legal Research,2,BP
+2025-03-11,GBING1,12:45-14:15,12,Legal Research,2,AF
+2025-03-11,GBING1,14:30-16:00,11,Legal Research,2,AF
+2025-03-12,LI6,09:00-10:30,9iii,Conference,2,MM
+2025-03-12,LI6,10:45-12:15,9iii,Conference,2,MM
+2025-03-12,LI7,09:00-10:30,7ii,Conference,2,MS
+2025-03-12,LI7,10:45-12:15,7ii,Conference,2,MS
+2025-03-12,LI7,12:45-14:15,6ii,Conference,2,MS
+2025-03-12,LI7,14:30-16:00,6ii,Conference,2,MS
+2025-03-12,LI8,09:00-10:30,9i,Conference,2,EA
+2025-03-12,LI8,10:45-12:15,9i,Conference,2,EA
+2025-03-12,LI8,12:45-14:15,13iii,Conference,2,EA
+2025-03-12,LI8,14:30-16:00,13iii,Conference,2,EA
+2025-03-12,LI9,09:00-10:30,7iii,Conference,2,SB
+2025-03-12,LI9,10:45-12:15,7iii,Conference,2,SB
+2025-03-12,LI9,12:45-14:15,8iii,Conference,2,SB
+2025-03-12,LI9,14:30-16:00,8iii,Conference,2,SB
+2025-03-12,LI10,09:00-10:30,7i,Conference,2,DK
+2025-03-12,LI10,10:45-12:15,7i,Conference,2,DK
+2025-03-12,LI10,12:45-14:15,8i,Conference,2,DK
+2025-03-12,LI10,14:30-16:00,8i,Conference,2,DK
+2025-03-12,14 SS,12:45-14:15,9ii,Conference,2,MF
+2025-03-12,14 SS,14:30-16:00,9ii,Conference,2,MF
+2025-03-12,GH,09:00-10:30,1,Legal Research,2,AU
+2025-03-12,GH,10:45-12:15,3,Legal Research,2,AU
+2025-03-12,GH,14:30-16:00,5,Legal Research,2,AU
+2025-03-12,GRH,09:00-10:30,2,Legal Research,2,AF
+2025-03-12,GRH,10:45-12:15,4,Legal Research,2,AF
+2025-03-12,GRH,14:30-16:00,10,Legal Research,2,AF
+2025-03-12,GBIRK,09:00-10:30,6,Civil Advocacy,2,MJ
+2025-03-12,GBIRK,10:45-12:15,5,Civil Advocacy,2,MJ
+2025-03-12,GBIRK,14:30-16:00,1,Civil Advocacy,2,MJ
+2025-03-12,GBING1,09:00-10:30,3,Criminal Advocacy,3,PA
+2025-03-12,GBING1,10:45-12:15,11,Criminal Advocacy,3,PA
+2025-03-12,GBING1,14:30-16:00,4,Criminal Advocacy,3,PA
+2025-03-13,LI6,09:00-10:30,10ii,Conference,2,KAJ
+2025-03-13,LI6,10:45-12:15,10ii,Conference,2,KAJ
+2025-03-13,LI7,09:00-10:30,12ii,Conference,2,SS
+2025-03-13,LI7,10:45-12:15,12ii,Conference,2,SS
+2025-03-13,LI8,09:00-10:30,10iii,Conference,2,EA
+2025-03-13,LI8,10:45-12:15,10iii,Conference,2,EA
+2025-03-13,LI8,12:45-14:15,11iii,Conference,2,EA
+2025-03-13,LI8,14:30-16:00,11iii,Conference,2,EA
+2025-03-13,LI9,09:00-10:30,12i,Conference,2,SB
+2025-03-13,LI9,10:45-12:15,12i,Conference,2,SB
+2025-03-13,LI9,12:45-14:15,12iii,Conference,2,SB
+2025-03-13,LI9,14:30-16:00,12iii,Conference,2,SB
+2025-03-13,LI10,09:00-10:30,10i,Conference,2,GVS
+2025-03-13,LI10,10:45-12:15,10i,Conference,2,GVS
+2025-03-13,LI10,12:45-14:15,11i,Conference,2,GVS
+2025-03-13,LI10,14:30-16:00,11i,Conference,2,GVS
+2025-03-13,14 SS,09:00-10:30,13,Civil Advocacy,2,AF
+2025-03-13,14 SS,12:45-14:15,11ii,Conference,2,MS
+2025-03-13,14 SS,14:30-16:00,11ii,Conference,2,MS
+2025-03-13,GH,09:00-10:30,7,Legal Research,2,AU
+2025-03-13,GH,10:45-12:15,9,Legal Research,2,AU
+2025-03-13,GH,14:30-16:00,6,Legal Research,2,AU
+2025-03-13,GRH,09:00-10:30,8,Legal Research,2,BP
+2025-03-13,GBIRK,09:00-10:30,5,Criminal Advocacy,3,PA
+2025-03-13,GBIRK,10:45-12:15,1,Criminal Advocacy,3,PA
+2025-03-13,GBIRK,14:30-16:00,2,Criminal Advocacy,3,PA
+2025-03-17,LI6,09:00-10:30,8i,Criminal Advocacy,4,MS
+2025-03-17,LI6,10:45-12:15,3ii,Criminal Advocacy,4,MS
+2025-03-17,LI6,14:30-16:00,7iii,Criminal Advocacy,4,MS
+2025-03-17,LI7,09:00-10:30,3i,Criminal Advocacy,4,SS
+2025-03-17,LI7,10:45-12:15,7ii,Criminal Advocacy,4,SS
+2025-03-17,LI7,14:30-16:00,2iii,Criminal Advocacy,4,SS
+2025-03-17,LI8,09:00-10:30,7i,Criminal Advocacy,4,MM
+2025-03-17,LI8,10:45-12:15,1ii,Criminal Advocacy,4,MM
+2025-03-17,LI8,14:30-16:00,3iii,Criminal Advocacy,4,MM
+2025-03-17,LI9,09:00-10:30,1i,Criminal Advocacy,4,EA
+2025-03-17,LI9,10:45-12:15,2ii,Criminal Advocacy,4,EA
+2025-03-17,LI9,14:30-16:00,8iii,Criminal Advocacy,4,EA
+2025-03-17,LI10,09:00-10:30,13i,Criminal Advocacy,4,DK
+2025-03-17,LI10,10:45-12:15,11ii,Criminal Advocacy,4,DK
+2025-03-17,LI10,14:30-16:00,11iii,Criminal Advocacy,4,DK
+2025-03-17,14 SS,09:00-10:30,11i,Criminal Advocacy,4,GVS
+2025-03-17,14 SS,10:45-12:15,13ii,Criminal Advocacy,4,GVS
+2025-03-17,14 SS,14:30-16:00,13iii,Criminal Advocacy,4,GVS
+2025-03-17,GH,09:00-10:30,2i,Criminal Advocacy,4,SB/PA
+2025-03-17,GH,10:45-12:15,8ii,Criminal Advocacy,4,SB/PA
+2025-03-17,GH,14:30-16:00,1iii,Criminal Advocacy,4,SB
+2025-03-17,GRH,09:00-10:30,10i,Civil Advocacy,3,RS
+2025-03-17,GRH,10:45-12:15,10ii,Civil Advocacy,3,RS
+2025-03-17,GRH,14:30-16:00,10iii,Civil Advocacy,3,RS
+2025-03-17,GBIRK,09:00-10:30,12i,Civil Advocacy,3,BP
+2025-03-17,GBIRK,10:45-12:15,12ii,Civil Advocacy,3,BP
+2025-03-17,GBIRK,14:30-16:00,12iii,Civil Advocacy,3,BP
+2025-03-17,GBING1,09:00-10:30,9i,Civil Advocacy,3,GB
+2025-03-17,GBING1,10:45-12:15,9ii,Civil Advocacy,3,GB
+2025-03-17,GBING1,14:30-16:00,9iii,Civil Advocacy,3,GB
+2025-03-17,GBING2,09:00-10:30,4,Opinion Writing,2,AF
+2025-03-17,GBING2,10:45-12:15,5,Opinion Writing,2,AF
+2025-03-17,GBING2,14:30-16:00,6,Opinion Writing,2,AF
+2025-03-18,LI6,09:00-10:30,5i,Criminal Advocacy,4,DK
+2025-03-18,LI6,10:45-12:15,5ii,Criminal Advocacy,4,DK
+2025-03-18,LI6,14:30-16:00,5iii,Criminal Advocacy,4,DK
+2025-03-18,LI7,09:00-10:30,9i,Criminal Advocacy,4,MM
+2025-03-18,LI7,10:45-12:15,6ii,Criminal Advocacy,4,MM
+2025-03-18,LI7,14:30-16:00,6iii,Criminal Advocacy,4,MM
+2025-03-18,LI8,09:00-10:30,6i,Criminal Advocacy,4,PA
+2025-03-18,LI8,10:45-12:15,9ii,Criminal Advocacy,4,PA
+2025-03-18,LI8,14:30-16:00,4iii,Criminal Advocacy,4,PA
+2025-03-18,LI9,09:00-10:30,10i,Criminal Advocacy,4,KAJ
+2025-03-18,LI9,10:45-12:15,10ii,Criminal Advocacy,4,KAJ
+2025-03-18,LI9,14:30-16:00,12iii,Criminal Advocacy,4,KAJ
+2025-03-18,LI10,09:00-10:30,4i,Criminal Advocacy,4,EA
+2025-03-18,LI10,10:45-12:15,9iii,Criminal Advocacy,4,EA
+2025-03-18,LI10,14:30-16:00,4ii,Criminal Advocacy,4,EA
+2025-03-18,14 SS,09:00-10:30,13i,Civil Advocacy,3,BP
+2025-03-18,14 SS,10:45-12:15,13iii,Civil Advocacy,3,BP
+2025-03-18,14 SS,12:45-14:15,13,Opinion Writing,2,AF
+2025-03-18,14 SS,14:30-16:00,13ii,Civil Advocacy,3,BP
+2025-03-18,GH,09:00-10:30,12i,Criminal Advocacy,4,MS
+2025-03-18,GH,10:45-12:15,12ii,Criminal Advocacy,4,MS
+2025-03-18,GH,14:30-16:00,10iii,Criminal Advocacy,4,MS
+2025-03-18,GRH,09:00-10:30,2i,Civil Advocacy,3,GB
+2025-03-18,GRH,10:45-12:15,2ii,Civil Advocacy,3,GB
+2025-03-18,GRH,14:30-16:00,2iii,Civil Advocacy,3,GB
+2025-03-18,GBIRK,09:00-10:30,3i,Civil Advocacy,3,RA
+2025-03-18,GBIRK,10:45-12:15,3ii,Civil Advocacy,3,RA
+2025-03-18,GBIRK,14:30-16:00,3iii,Civil Advocacy,3,RA
+2025-03-18,GBING1,09:00-10:30,1i,Civil Advocacy,3,MJ
+2025-03-18,GBING1,10:45-12:15,1ii,Civil Advocacy,3,MJ
+2025-03-18,GBING1,14:30-16:00,1iii,Civil Advocacy,3,MJ
+2025-03-18,GBING2,09:00-10:30,7,Opinion Writing,2,AU
+2025-03-18,GBING2,10:45-12:15,8,Opinion Writing,2,AU
+2025-03-18,GBING2,14:30-16:00,9,Opinion Writing,2,AU
+2025-03-19,LI6,09:00-10:30,1i,Criminal Advocacy,5,SB
+2025-03-19,LI6,10:45-12:15,11iii,Criminal Advocacy,5,SB
+2025-03-19,LI6,12:45-14:15,1ii,Criminal Advocacy,5,SB
+2025-03-19,LI7,09:00-10:30,2i,Criminal Advocacy,5,SS
+2025-03-19,LI7,10:45-12:15,2ii,Criminal Advocacy,5,SS
+2025-03-19,LI7,12:45-14:15,3iii,Criminal Advocacy,5,SS
+2025-03-19,LI8,09:00-10:30,3i,Criminal Advocacy,5,PR
+2025-03-19,LI8,10:45-12:15,3ii,Criminal Advocacy,5,PR
+2025-03-19,LI8,12:45-14:15,2iii,Criminal Advocacy,5,PR
+2025-03-19,LI9,09:00-10:30,7i,Criminal Advocacy,5,MS
+2025-03-19,LI9,10:45-12:15,8ii,Criminal Advocacy,5,MS
+2025-03-19,LI9,12:45-14:15,1iii,Criminal Advocacy,5,MS
+2025-03-19,LI10,09:00-10:30,8i,Criminal Advocacy,5,EA
+2025-03-19,LI10,10:45-12:15,7ii,Criminal Advocacy,5,EA
+2025-03-19,LI10,12:45-14:15,7iii,Criminal Advocacy,5,EA
+2025-03-19,14 SS,09:00-10:30,13i,Criminal Advocacy,5,GVS
+2025-03-19,14 SS,10:45-12:15,11ii,Criminal Advocacy,5,GVS
+2025-03-19,GH,09:00-10:30,11i,Criminal Advocacy,5,DK
+2025-03-19,GH,10:45-12:15,13ii,Criminal Advocacy,5,DK
+2025-03-19,GRH,09:00-10:30,4i,Civil Advocacy,3,RA
+2025-03-19,GRH,10:45-12:15,4ii,Civil Advocacy,3,RA
+2025-03-19,GRH,12:45-14:15,4iii,Civil Advocacy,3,RA
+2025-03-19,GBIRK,09:00-10:30,5i,Civil Advocacy,3,RS
+2025-03-19,GBIRK,10:45-12:15,5ii,Civil Advocacy,3,RS
+2025-03-19,GBIRK,12:45-14:15,5iii,Civil Advocacy,3,RS
+2025-03-19,GBING1,09:00-10:30,6i,Civil Advocacy,3,MJ
+2025-03-19,GBING1,10:45-12:15,6ii,Civil Advocacy,3,MJ
+2025-03-19,GBING1,12:45-14:15,6iii,Civil Advocacy,3,MJ
+2025-03-19,GBING2,09:00-10:30,10,Opinion Writing,2,AF
+2025-03-19,GBING2,10:45-12:15,12,Opinion Writing,2,AF
+2025-03-19,GBING2,12:45-14:15,11,Opinion Writing,2,AF
+2025-03-20,LI6,09:00-10:30,9i,Criminal Advocacy,5,MS
+2025-03-20,LI6,10:45-12:15,9ii,Criminal Advocacy,5,MS
+2025-03-20,LI6,14:30-16:00,9iii,Criminal Advocacy,5,MS
+2025-03-20,LI7,09:00-10:30,5i,Criminal Advocacy,5,PA
+2025-03-20,LI7,10:45-12:15,5ii,Criminal Advocacy,5,PA
+2025-03-20,LI7,14:30-16:00,5iii,Criminal Advocacy,5,PA
+2025-03-20,LI8,09:00-10:30,6i,Criminal Advocacy,5,KAJ
+2025-03-20,LI8,10:45-12:15,6ii,Criminal Advocacy,5,KAJ
+2025-03-20,LI8,14:30-16:00,6iii,Criminal Advocacy,5,KAJ
+2025-03-20,LI9,09:00-10:30,4i,Criminal Advocacy,5,SB
+2025-03-20,LI9,10:45-12:15,4ii,Criminal Advocacy,5,SB
+2025-03-20,LI9,14:30-16:00,4iii,Criminal Advocacy,5,SB
+2025-03-20,LI10,09:00-10:30,10i,Criminal Advocacy,5,PR
+2025-03-20,LI10,10:45-12:15,10ii,Criminal Advocacy,5,PR
+2025-03-20,LI10,14:30-16:00,10iii,Criminal Advocacy,5,PR
+2025-03-20,14 SS,12:45-14:15,8iii,Criminal Advocacy,5,DK
+2025-03-20,14 SS,14:30-16:00,13iii,Criminal Advocacy,5,DK
+2025-03-20,GH,09:00-10:30,12i,Criminal Advocacy,5,SS
+2025-03-20,GH,10:45-12:15,12ii,Criminal Advocacy,5,SS
+2025-03-20,GH,14:30-16:00,12iii,Criminal Advocacy,5,SS
+2025-03-20,GRH,09:00-10:30,8i,Civil Advocacy,3,AF
+2025-03-20,GRH,10:45-12:15,8ii,Civil Advocacy,3,AF
+2025-03-20,GRH,14:30-16:00,8iii,Civil Advocacy,3,AF
+2025-03-20,GBIRK,09:00-10:30,11i,Civil Advocacy,3,BP
+2025-03-20,GBIRK,10:45-12:15,11ii,Civil Advocacy,3,BP
+2025-03-20,GBIRK,14:30-16:00,11iii,Civil Advocacy,3,BP
+2025-03-20,GBING1,09:00-10:30,1,Opinion Writing,2,AU
+2025-03-20,GBING1,10:45-12:15,2,Opinion Writing,2,AU
+2025-03-20,GBING1,14:30-16:00,3,Opinion Writing,2,AU
+2025-03-20,GBING2,09:00-10:30,7i,Civil Advocacy,3,RS
+2025-03-20,GBING2,10:45-12:15,7ii,Civil Advocacy,3,RS
+2025-03-20,GBING2,14:30-16:00,7iii,Civil Advocacy,3,RS
+2025-03-24,LI6,09:00-10:30,1i,Conference,3,GVS
+2025-03-24,LI6,10:45-12:15,1i,Conference,3,GVS
+2025-03-24,LI6,12:45-14:15,1ii,Conference,3,GVS
+2025-03-24,LI6,14:30-16:00,1ii,Conference,3,GVS
+2025-03-24,LI7,09:00-10:30,2i,Conference,3,KAJ
+2025-03-24,LI7,10:45-12:15,2i,Conference,3,KAJ
+2025-03-24,LI7,12:45-14:15,2ii,Conference,3,KAJ
+2025-03-24,LI7,14:30-16:00,2ii,Conference,3,KAJ
+2025-03-24,LI8,09:00-10:30,3i,Conference,3,EA
+2025-03-24,LI8,10:45-12:15,3i,Conference,3,EA
+2025-03-24,LI8,12:45-14:15,3ii,Conference,3,EA
+2025-03-24,LI8,14:30-16:00,3ii,Conference,3,EA
+2025-03-24,LI9,09:00-10:30,3iii,Conference,3,MS
+2025-03-24,LI9,10:45-12:15,3iii,Conference,3,MS
+2025-03-24,LI9,12:45-14:15,2iii,Conference,3,MS
+2025-03-24,LI9,14:30-16:00,2iii,Conference,3,MS
+2025-03-24,LI10,09:00-10:30,1iii,Conference,3,PA
+2025-03-24,LI10,10:45-12:15,1iii,Conference,3,PA
+2025-03-24,14 SS,12:45-14:15,13ii,Conference,3,SS
+2025-03-24,14 SS,14:30-16:00,13ii,Conference,3,SS
+2025-03-24,GH,09:00-10:30,10i,Civil Advocacy,4,AF
+2025-03-24,GH,10:45-12:15,10ii,Civil Advocacy,4,AF
+2025-03-24,GH,14:30-16:00,10iii,Civil Advocacy,4,AF
+2025-03-24,GRH,09:00-10:30,11i,Civil Advocacy,4,GB
+2025-03-24,GRH,10:45-12:15,11ii,Civil Advocacy,4,GB
+2025-03-24,GRH,14:30-16:00,11iii,Civil Advocacy,4,GB
+2025-03-24,GBIRK,09:00-10:30,12i,Civil Advocacy,4,RS
+2025-03-24,GBIRK,10:45-12:15,12ii,Civil Advocacy,4,RS
+2025-03-24,GBIRK,14:30-16:00,12iii,Civil Advocacy,4,RS
+2025-03-24,GBING1,09:00-10:30,4,Opinion Writing,3,BP
+2025-03-24,GBING1,10:45-12:15,5,Opinion Writing,3,BP
+2025-03-24,GBING1,14:30-16:00,6,Opinion Writing,3,BP
+2025-03-25,LI6,09:00-10:30,4i,Conference,3,SS
+2025-03-25,LI6,10:45-12:15,4i,Conference,3,SS
+2025-03-25,LI7,09:00-10:30,4ii,Conference,3,GVS
+2025-03-25,LI7,10:45-12:15,4ii,Conference,3,GVS
+2025-03-25,LI7,12:45-14:15,5ii,Conference,3,GVS
+2025-03-25,LI7,14:30-16:00,5ii,Conference,3,GVS
+2025-03-25,LI8,09:00-10:30,6i,Conference,3,EA
+2025-03-25,LI8,10:45-12:15,6i,Conference,3,EA
+2025-03-25,LI8,12:45-14:15,13i,Conference,3,EA
+2025-03-25,LI8,14:30-16:00,13i,Conference,3,EA
+2025-03-25,LI9,09:00-10:30,4iii,Conference,3,MS
+2025-03-25,LI9,10:45-12:15,4iii,Conference,3,MS
+2025-03-25,LI9,12:45-14:15,5iii,Conference,3,MS
+2025-03-25,LI9,14:30-16:00,5iii,Conference,3,MS
+2025-03-25,LI10,09:00-10:30,6iii,Conference,3,DK
+2025-03-25,LI10,10:45-12:15,6iii,Conference,3,DK
+2025-03-25,LI10,12:45-14:15,5i,Conference,3,DK
+2025-03-25,LI10,14:30-16:00,5i,Conference,3,DK
+2025-03-25,14 SS,09:00-10:30,13i,Civil Advocacy,4,AF
+2025-03-25,14 SS,10:45-12:15,13iii,Civil Advocacy,4,AF
+2025-03-25,14 SS,12:45-14:15,8ii,Conference,3,MF
+2025-03-25,14 SS,14:30-16:00,8ii,Conference,3,MF
+2025-03-25,GH,09:00-10:30,1i,Civil Advocacy,4,MJ
+2025-03-25,GH,10:45-12:15,1ii,Civil Advocacy,4,MJ
+2025-03-25,GH,14:30-16:00,1iii,Civil Advocacy,4,MJ
+2025-03-25,GRH,09:00-10:30,2i,Civil Advocacy,4,RS
+2025-03-25,GRH,10:45-12:15,7ii,Civil Advocacy,4,RS
+2025-03-25,GRH,14:30-16:00,2iii,Civil Advocacy,4,RS
+2025-03-25,GBIRK,09:00-10:30,3i,Civil Advocacy,4,BP/MA
+2025-03-25,GBIRK,10:45-12:15,3ii,Civil Advocacy,4,BP/MA
+2025-03-25,GBIRK,14:30-16:00,8iii,Civil Advocacy,4,BP
+2025-03-25,GBING1,09:00-10:30,7,Opinion Writing,3,RA
+2025-03-25,GBING1,10:45-12:15,8,Opinion Writing,3,RA
+2025-03-25,GBING1,14:30-16:00,9,Opinion Writing,3,RA/MA
+2025-03-26,LI6,09:00-10:30,6ii,Conference,3,GVS
+2025-03-26,LI6,10:45-12:15,6ii,Conference,3,GVS
+2025-03-26,LI7,09:00-10:30,7ii,Conference,3,PA
+2025-03-26,LI7,10:45-12:15,7ii,Conference,3,PA
+2025-03-26,LI7,12:45-14:15,7i,Conference,3,PA
+2025-03-26,LI7,14:30-16:00,7i,Conference,3,PA
+2025-03-26,LI8,09:00-10:30,8iii,Conference,3,MS
+2025-03-26,LI8,10:45-12:15,8iii,Conference,3,MS
+2025-03-26,LI8,12:45-14:15,9i,Conference,3,MS
+2025-03-26,LI8,14:30-16:00,9i,Conference,3,MS
+2025-03-26,LI9,09:00-10:30,7iii,Conference,3,EA
+2025-03-26,LI9,10:45-12:15,7iii,Conference,3,EA
+2025-03-26,LI9,12:45-14:15,8i,Conference,3,EA
+2025-03-26,LI9,14:30-16:00,8i,Conference,3,EA
+2025-03-26,LI10,09:00-10:30,9iii,Conference,3,DK
+2025-03-26,LI10,10:45-12:15,9iii,Conference,3,DK
+2025-03-26,LI10,12:45-14:15,13iii,Conference,3,DK
+2025-03-26,LI10,14:30-16:00,13iii,Conference,3,DK
+2025-03-26,14 SS,09:00-10:30,9ii,Civil Advocacy,4,BP
+2025-03-26,14 SS,12:45-14:15,9ii,Conference,3,SS
+2025-03-26,14 SS,14:30-16:00,9ii,Conference,3,SS
+2025-03-26,GH,09:00-10:30,9i,Civil Advocacy,4,MJ
+2025-03-26,GH,10:45-12:15,13ii,Civil Advocacy,4,MJ
+2025-03-26,GH,14:30-16:00,9iii,Civil Advocacy,4,MJ
+2025-03-26,GRH,09:00-10:30,8i,Civil Advocacy,4,RA
+2025-03-26,GRH,10:45-12:15,8ii,Civil Advocacy,4,RA
+2025-03-26,GRH,14:30-16:00,3iii,Civil Advocacy,4,RA
+2025-03-26,GBIRK,09:00-10:30,7i,Civil Advocacy,4,LB
+2025-03-26,GBIRK,10:45-12:15,2ii,Civil Advocacy,4,LB
+2025-03-26,GBIRK,14:30-16:00,7iii,Civil Advocacy,4,LB
+2025-03-26,GBING1,09:00-10:30,10,Opinion Writing,3,AF/MA
+2025-03-26,GBING1,10:45-12:15,11,Opinion Writing,3,AF/MA
+2025-03-26,GBING1,14:30-16:00,12,Opinion Writing,3,AF/MA
+2025-03-27,LI6,09:00-10:30,10ii,Conference,3,PA
+2025-03-27,LI6,10:45-12:15,10ii,Conference,3,PA
+2025-03-27,LI7,09:00-10:30,10iii,Conference,3,GVS
+2025-03-27,LI7,10:45-12:15,10iii,Conference,3,GVS
+2025-03-27,LI7,12:45-14:15,11iii,Conference,3,GVS
+2025-03-27,LI7,14:30-16:00,11iii,Conference,3,GVS
+2025-03-27,LI8,09:00-10:30,10i,Conference,3,MF
+2025-03-27,LI8,10:45-12:15,10i,Conference,3,MF
+2025-03-27,LI8,12:45-14:15,11i,Conference,3,SS
+2025-03-27,LI8,14:30-16:00,11i,Conference,3,SS
+2025-03-27,LI9,09:00-10:30,12i,Conference,3,EA
+2025-03-27,LI9,10:45-12:15,12i,Conference,3,EA
+2025-03-27,LI9,12:45-14:15,12iii,Conference,3,EA
+2025-03-27,LI9,14:30-16:00,12iii,Conference,3,EA
+2025-03-27,LI10,09:00-10:30,12ii,Conference,3,DK
+2025-03-27,LI10,10:45-12:15,12ii,Conference,3,DK
+2025-03-27,14 SS,12:45-14:15,11ii,Conference,3,KAJ
+2025-03-27,14 SS,14:30-16:00,11ii,Conference,3,KAJ
+2025-03-27,GH,09:00-10:30,4i,Civil Advocacy,4,LB
+2025-03-27,GH,10:45-12:15,4ii,Civil Advocacy,4,LB
+2025-03-27,GH,14:30-16:00,4iii,Civil Advocacy,4,LB
+2025-03-27,GRH,09:00-10:30,5i,Civil Advocacy,4,AF
+2025-03-27,GRH,10:45-12:15,5ii,Civil Advocacy,4,AF
+2025-03-27,GRH,14:30-16:00,5iii,Civil Advocacy,4,AF
+2025-03-27,GBIRK,09:00-10:30,6i,Civil Advocacy,4,BP
+2025-03-27,GBIRK,10:45-12:15,6ii,Civil Advocacy,4,BP
+2025-03-27,GBIRK,14:30-16:00,6iii,Civil Advocacy,4,BP
+2025-03-27,GBING1,09:00-10:30,1,Opinion Writing,3,AU
+2025-03-27,GBING1,10:45-12:15,2,Opinion Writing,3,AU
+2025-03-27,GBING1,12:45-14:15,13,Opinion Writing,3,AF/AU
+2025-03-27,GBING1,14:30-16:00,3,Opinion Writing,3,AU
+2025-03-31,LI6,09:00-10:30,3i,Criminal Advocacy,6,MS
+2025-03-31,LI6,10:45-12:15,2ii,Criminal Advocacy,6,MS
+2025-03-31,LI6,14:30-16:00,3iii,Criminal Advocacy,6,MS
+2025-03-31,LI7,09:00-10:30,10i,Criminal Advocacy,6,SS
+2025-03-31,LI7,10:45-12:15,3ii,Criminal Advocacy,6,SS
+2025-03-31,LI7,14:30-16:00,10iii,Criminal Advocacy,6,SS
+2025-03-31,LI8,09:00-10:30,2i,Criminal Advocacy,6,KAJ
+2025-03-31,LI8,10:45-12:15,9ii,Criminal Advocacy,6,KAJ
+2025-03-31,LI8,14:30-16:00,2iii,Criminal Advocacy,6,KAJ
+2025-03-31,LI9,09:00-10:30,9i,Criminal Advocacy,6,GVS
+2025-03-31,LI9,10:45-12:15,10ii,Criminal Advocacy,6,GVS
+2025-03-31,LI9,14:30-16:00,9iii,Criminal Advocacy,6,GVS
+2025-03-31,LI10,09:00-10:30,1i,Criminal Advocacy,6,DK
+2025-03-31,LI10,10:45-12:15,1ii,Criminal Advocacy,6,DK
+2025-03-31,LI10,14:30-16:00,1iii,Criminal Advocacy,6,DK
+2025-03-31,14 SS,09:00-10:30,13i,Criminal Advocacy,6,PR
+2025-03-31,14 SS,10:45-12:15,13ii,Criminal Advocacy,6,PR
+2025-03-31,14 SS,14:30-16:00,13iii,Criminal Advocacy,6,PR
+2025-03-31,GH,09:00-10:30,11i,Criminal Advocacy,6,PA
+2025-03-31,GH,10:45-12:15,11ii,Criminal Advocacy,6,PA
+2025-03-31,GH,14:30-16:00,11iii,Criminal Advocacy,6,PA
+2025-03-31,GRH,09:00-10:30,8,Drafting,2,AF
+2025-03-31,GRH,10:45-12:15,7,Drafting,2,AF
+2025-03-31,GRH,14:30-16:00,12,Drafting,2,AF
+2025-04-01,LI6,09:00-10:30,4i,Criminal Advocacy,6,MS
+2025-04-01,LI6,10:45-12:15,4ii,Criminal Advocacy,6,MS
+2025-04-01,LI6,14:30-16:00,6iii,Criminal Advocacy,6,MS
+2025-04-01,LI7,09:00-10:30,8i,Criminal Advocacy,6,PR
+2025-04-01,LI7,10:45-12:15,8ii,Criminal Advocacy,6,PR
+2025-04-01,LI7,14:30-16:00,5iii,Criminal Advocacy,6,PR
+2025-04-01,LI8,09:00-10:30,7i,Criminal Advocacy,6,MF
+2025-04-01,LI8,10:45-12:15,7ii,Criminal Advocacy,6,MF
+2025-04-01,LI8,14:30-16:00,7iii,Criminal Advocacy,6,MF
+2025-04-01,LI9,09:00-10:30,5i,Criminal Advocacy,6,EA
+2025-04-01,LI9,10:45-12:15,5ii,Criminal Advocacy,6,EA
+2025-04-01,LI9,14:30-16:00,8iii,Criminal Advocacy,6,EA
+2025-04-01,LI10,09:00-10:30,6i,Criminal Advocacy,6,GVS
+2025-04-01,LI10,10:45-12:15,6ii,Criminal Advocacy,6,GVS
+2025-04-01,LI10,14:30-16:00,12iii,Criminal Advocacy,6,GVS
+2025-04-01,GH,09:00-10:30,12i,Criminal Advocacy,6,PA
+2025-04-01,GH,10:45-12:15,12ii,Criminal Advocacy,6,PA
+2025-04-01,GH,14:30-16:00,4iii,Criminal Advocacy,6,PA
+2025-04-01,GRH,09:00-10:30,10,Drafting,2,AF
+2025-04-01,GRH,10:45-12:15,9,Drafting,2,AF
+2025-04-01,GRH,14:30-16:00,11,Drafting,2,AF
+2025-04-02,LI6,09:00-10:30,9i,Criminal Advocacy,7,EA
+2025-04-02,LI6,10:45-12:15,9ii,Criminal Advocacy,7,EA
+2025-04-02,LI6,14:30-16:00,10iii,Criminal Advocacy,7,EA
+2025-04-02,LI7,09:00-10:30,11i,Criminal Advocacy,7,SS
+2025-04-02,LI7,10:45-12:15,11ii,Criminal Advocacy,7,SS
+2025-04-02,LI7,14:30-16:00,9iii,Criminal Advocacy,7,SS
+2025-04-02,LI8,09:00-10:30,2i,Criminal Advocacy,7,PR
+2025-04-02,LI8,10:45-12:15,2ii,Criminal Advocacy,7,PR
+2025-04-02,LI8,14:30-16:00,3iii,Criminal Advocacy,7,PR
+2025-04-02,LI9,09:00-10:30,1i,Criminal Advocacy,7,GVS
+2025-04-02,LI9,10:45-12:15,3ii,Criminal Advocacy,7,GVS
+2025-04-02,LI9,14:30-16:00,1iii,Criminal Advocacy,7,GVS
+2025-04-02,LI10,09:00-10:30,3i,Criminal Advocacy,7,DK
+2025-04-02,LI10,10:45-12:15,10ii,Criminal Advocacy,7,DK
+2025-04-02,LI10,14:30-16:00,2iii,Criminal Advocacy,7,DK
+2025-04-02,GH,09:00-10:30,10i,Criminal Advocacy,7,MS
+2025-04-02,GH,10:45-12:15,1ii,Criminal Advocacy,7,MS
+2025-04-02,GH,14:30-16:00,11iii,Criminal Advocacy,7,MS
+2025-04-02,GRH,09:00-10:30,4,Drafting,2,AU
+2025-04-02,GRH,10:45-12:15,5,Drafting,2,AU
+2025-04-02,GRH,12:45-14:15,13,Drafting,2,BP
+2025-04-02,GRH,14:30-16:00,6,Drafting,2,AU
+2025-04-03,LI6,09:00-10:30,4i,Criminal Advocacy,7,PA
+2025-04-03,LI6,10:45-12:15,13ii,Criminal Advocacy,7,PA
+2025-04-03,LI6,14:30-16:00,13iii,Criminal Advocacy,7,PA
+2025-04-03,LI7,09:00-10:30,7i,Criminal Advocacy,7,EA
+2025-04-03,LI7,10:45-12:15,8ii,Criminal Advocacy,7,EA
+2025-04-03,LI7,14:30-16:00,5iii,Criminal Advocacy,7,EA
+2025-04-03,LI8,09:00-10:30,8i,Criminal Advocacy,7,MF
+2025-04-03,LI8,10:45-12:15,5ii,Criminal Advocacy,7,MF
+2025-04-03,LI8,14:30-16:00,8iii,Criminal Advocacy,7,MF
+2025-04-03,LI9,09:00-10:30,6i,Criminal Advocacy,7,MS
+2025-04-03,LI9,10:45-12:15,12ii,Criminal Advocacy,7,MS
+2025-04-03,LI9,14:30-16:00,12iii,Criminal Advocacy,7,MS
+2025-04-03,LI10,09:00-10:30,5i,Criminal Advocacy,7,SS
+2025-04-03,LI10,10:45-12:15,6ii,Criminal Advocacy,7,SS
+2025-04-03,LI10,14:30-16:00,6iii,Criminal Advocacy,7,SS
+2025-04-03,14 SS,09:00-10:30,13i,Criminal Advocacy,7,DK
+2025-04-03,14 SS,10:45-12:15,4ii,Criminal Advocacy,7,DK
+2025-04-03,14 SS,14:30-16:00,7iii,Criminal Advocacy,7,DK
+2025-04-03,GH,09:00-10:30,12i,Criminal Advocacy,7,PR
+2025-04-03,GH,10:45-12:15,7ii,Criminal Advocacy,7,PR
+2025-04-03,GH,14:30-16:00,4iii,Criminal Advocacy,7,PR
+2025-04-03,GRH,09:00-10:30,1,Drafting,2,AF
+2025-04-03,GRH,10:45-12:15,2,Drafting,2,AF
+2025-04-03,GRH,14:30-16:00,3,Drafting,2,AF
+2025-04-07,LI6,09:00-10:30,1i,Conference,4,RD/MF
+2025-04-07,LI6,10:00-12:15,1i,Conference,4,RD/MF
+2025-04-07,LI6,12:45-14:15,13iii,Conference,4,RD
+2025-04-07,LI6,14:30-16:00,13iii,Conference,4,RD
+2025-04-07,LI7,09:00-10:30,1ii,Conference,4,SB
+2025-04-07,LI7,10:45-12:15,1ii,Conference,4,SB
+2025-04-07,LI7,12:45-14:15,2ii,Conference,4,SB
+2025-04-07,LI7,14:30-16:00,2ii,Conference,4,SB
+2025-04-07,LI8,09:00-10:30,3i,Conference,4,MS
+2025-04-07,LI8,10:45-12:15,3i,Conference,4,MS
+2025-04-07,LI8,12:45-14:15,3ii,Conference,4,MS
+2025-04-07,LI8,14:30-16:00,3ii,Conference,4,MS
+2025-04-07,LI9,09:00-10:30,1iii,Conference,4,SS
+2025-04-07,LI9,10:45-12:15,1iii,Conference,4,SS
+2025-04-07,LI9,12:45-14:15,12i,Conference,4,GVS
+2025-04-07,LI9,14:30-16:00,12i,Conference,4,GVS
+2025-04-07,LI10,09:00-10:30,3iii,Conference,4,EA
+2025-04-07,LI10,10:45-12:15,3iii,Conference,4,EA
+2025-04-07,LI10,12:45-14:15,2iii,Conference,4,EA
+2025-04-07,LI10,14:30-16:00,2iii,Conference,4,EA
+2025-04-07,14 SS,12:45-14:15,2i,Conference,4,DK
+2025-04-07,14 SS,14:30-16:00,2i,Conference,4,DK
+2025-04-07,GH,09:00-10:30,10A,Civil Advocacy,5,BP
+2025-04-07,GH,10:45-12:15,10A,Civil Advocacy,5,BP
+2025-04-07,GH,12:45-14:15,10B,Civil Advocacy,5,BP
+2025-04-07,GH,14:30-16:00,10B,Civil Advocacy,5,BP
+2025-04-07,GRH,09:00-10:30,5A,Civil Advocacy,5,MJ
+2025-04-07,GRH,10:45-12:15,5A,Civil Advocacy,5,MJ
+2025-04-07,GRH,12:45-14:15,5B,Civil Advocacy,5,MJ
+2025-04-07,GRH,14:30-16:00,5B,Civil Advocacy,5,MJ
+2025-04-07,GBIRK,09:00-10:30,12A,Civil Advocacy,5,RY
+2025-04-07,GBIRK,10:45-12:15,12A,Civil Advocacy,5,RY
+2025-04-07,GBIRK,12:45-14:15,7B,Civil Advocacy,5,RY
+2025-04-07,GBIRK,14:30-16:00,7B,Civil Advocacy,5,RY
+2025-04-07,GBING1,09:00-10:30,9,Drafting,3,AF
+2025-04-07,GBING1,10:45-12:15,6,Drafting,3,AF
+2025-04-07,GBING1,14:30-16:00,1,Drafting,3,AF
+2025-04-07,GBING2,09:00-10:30,7,Opinion Writing,4,LOM
+2025-04-07,GBING2,10:45-12:15,8,Opinion Writing,4,LOM
+2025-04-07,GBING2,14:30-16:00,9,Opinion Writing,4,LOM
+2025-04-08,LI6,09:00-10:30,4i,Conference,4,RD
+2025-04-08,LI6,10:45-12:15,4i,Conference,4,RD
+2025-04-08,LI6,12:45-14:15,5ii,Conference,4,RD
+2025-04-08,LI6,14:30-16:00,5ii,Conference,4,RD
+2025-04-08,LI7,09:00-10:30,6i,Conference,4,MM
+2025-04-08,LI7,10:45-12:15,6i,Conference,4,MM
+2025-04-08,LI7,12:45-14:15,5i,Conference,4,MS
+2025-04-08,LI7,14:30-16:00,5i,Conference,4,MS
+2025-04-08,LI8,09:00-10:30,13ii,Conference,4,MF
+2025-04-08,LI8,10:45-12:15,13ii,Conference,4,MF
+2025-04-08,LI9,09:00-10:30,6iii,Conference,4,SB
+2025-04-08,LI9,10:45-12:15,6iii,Conference,4,SB
+2025-04-08,LI9,12:45-14:15,6ii,Conference,4,SB
+2025-04-08,LI9,14:30-16:00,6ii,Conference,4,SB
+2025-04-08,LI10,09:00-10:30,4ii,Conference,4,DK
+2025-04-08,LI10,10:45-12:15,4ii,Conference,4,DK
+2025-04-08,LI10,12:45-14:15,5iii,Conference,4,GVS
+2025-04-08,LI10,14:30-16:00,5iii,Conference,4,GVS
+2025-04-08,14 SS,09:00-10:30,4iii,Conference,4,PA
+2025-04-08,14 SS,10:45-12:15,4iii,Conference,4,PA
+2025-04-08,14 SS,12:45-14:15,12ii,Conference,4,PA
+2025-04-08,14 SS,14:30-16:00,12ii,Conference,4,PA
+2025-04-08,GH,09:00-10:30,9A,Civil Advocacy,5,RY
+2025-04-08,GH,10:45-12:15,9A,Civil Advocacy,5,RY
+2025-04-08,GH,12:45-14:15,9B,Civil Advocacy,5,AF
+2025-04-08,GH,14:30-16:00,9B,Civil Advocacy,5,AF
+2025-04-08,GRH,09:00-10:30,8A,Civil Advocacy,5,MJ
+2025-04-08,GRH,10:45-12:15,8A,Civil Advocacy,5,MJ
+2025-04-08,GRH,12:45-14:15,8B,Civil Advocacy,5,MJ
+2025-04-08,GRH,14:30-16:00,8B,Civil Advocacy,5,MJ
+2025-04-08,GBIRK,09:00-10:30,7A,Civil Advocacy,5,BP
+2025-04-08,GBIRK,10:45-12:15,7A,Civil Advocacy,5,BP
+2025-04-08,GBIRK,12:45-14:15,1A,Civil Advocacy,5,BP
+2025-04-08,GBIRK,14:30-16:00,1A,Civil Advocacy,5,BP
+2025-04-08,GBING1,09:00-10:30,5,Drafting,3,AU
+2025-04-08,GBING1,10:45-12:15,3,Drafting,3,AU
+2025-04-08,GBING1,12:45-14:15,13,Drafting,3,AU
+2025-04-08,GBING1,14:30-16:00,4,Drafting,3,AU
+2025-04-08,GBING2,09:00-10:30,11,Opinion Writing,4,LOM
+2025-04-08,GBING2,10:45-12:15,2,Opinion Writing,4,LOM
+2025-04-08,GBING2,14:30-16:00,10,Opinion Writing,4,LOM
+2025-04-09,LI6,09:00-10:30,7i,Conference,4,RD
+2025-04-09,LI6,10:45-12:15,7i,Conference,4,RD
+2025-04-09,LI6,12:45-14:15,12iii,Conference,4,RD
+2025-04-09,LI6,14:30-16:00,12iii,Conference,4,RD
+2025-04-09,LI7,09:00-10:30,7ii,Conference,4,EA
+2025-04-09,LI7,10:45-12:15,7ii,Conference,4,EA
+2025-04-09,LI7,12:45-14:15,7iii,Conference,4,MS
+2025-04-09,LI7,14:30-16:00,7iii,Conference,4,MS
+2025-04-09,LI8,09:00-10:30,9i,Conference,4,MM
+2025-04-09,LI8,10:45-12:15,9i,Conference,4,MM
+2025-04-09,LI8,12:45-14:15,8iii,Conference,4,MM
+2025-04-09,LI8,14:30-16:00,8iii,Conference,4,MM
+2025-04-09,LI9,09:00-10:30,9iii,Conference,4,SB
+2025-04-09,LI9,10:45-12:15,9iii,Conference,4,SB
+2025-04-09,LI9,12:45-14:15,8i,Conference,4,SB
+2025-04-09,LI9,14:30-16:00,8i,Conference,4,SB
+2025-04-09,14 SS,09:00-10:30,13A,Civil Advocacy,5,MJ
+2025-04-09,14 SS,10:45-12:15,13A,Civil Advocacy,5,MJ
+2025-04-09,14 SS,12:45-14:15,13B,Civil Advocacy,5,MJ
+2025-04-09,14 SS,14:30-16:00,13B,Civil Advocacy,5,MJ
+2025-04-09,GH,09:00-10:30,6A,Civil Advocacy,5,GB
+2025-04-09,GH,10:45-12:15,6A,Civil Advocacy,5,GB
+2025-04-09,GH,12:45-14:15,6B,Civil Advocacy,5,GB
+2025-04-09,GH,14:30-16:00,6B,Civil Advocacy,5,GB
+2025-04-09,GRH,09:00-10:30,11A,Civil Advocacy,5,RY
+2025-04-09,GRH,10:45-12:15,11A,Civil Advocacy,5,RY
+2025-04-09,GRH,12:45-14:15,11B,Civil Advocacy,5,RY
+2025-04-09,GRH,14:30-16:00,11B,Civil Advocacy,5,RY
+2025-04-09,GBIRK,09:00-10:30,4A,Civil Advocacy,5,BP
+2025-04-09,GBIRK,10:45-12:15,4A,Civil Advocacy,5,BP
+2025-04-09,GBIRK,12:45-14:15,4B,Civil Advocacy,5,BP
+2025-04-09,GBIRK,14:30-16:00,4B,Civil Advocacy,5,BP
+2025-04-09,GBING1,09:00-10:30,2,Drafting,3,AF
+2025-04-09,GBING1,10:45-12:15,8,Drafting,3,AF
+2025-04-09,GBING1,14:30-16:00,10,Drafting,3,AF
+2025-04-09,GBING2,09:00-10:30,1,Opinion Writing,4,AU
+2025-04-09,GBING2,10:45-12:15,12,Opinion Writing,4,AU
+2025-04-09,GBING2,14:30-16:00,3,Opinion Writing,4,AU
+2025-04-10,LI6,09:00-10:30,10i,Conference,4,SS
+2025-04-10,LI6,10:45-12:15,10i,Conference,4,SS
+2025-04-10,LI6,12:45-14:15,11iii,Conference,4,EA
+2025-04-10,LI6,14:30-16:00,11iii,Conference,4,EA
+2025-04-10,LI7,09:00-10:30,9ii,Conference,4,RD
+2025-04-10,LI7,10:45-12:15,9ii,Conference,4,RD
+2025-04-10,LI8,09:00-10:30,10iii,Conference,4,MS
+2025-04-10,LI8,10:45-12:15,10iii,Conference,4,MS
+2025-04-10,LI8,12:45-14:15,11i,Conference,4,MS
+2025-04-10,LI8,14:30-16:00,11i,Conference,4,MS
+2025-04-10,LI9,09:00-10:30,10ii,Conference,4,MF
+2025-04-10,LI9,10:45-12:15,10ii,Conference,4,MF
+2025-04-10,LI10,09:00-10:30,8ii,Conference,4,PA
+2025-04-10,LI10,10:45-12:15,8ii,Conference,4,PA
+2025-04-10,14 SS,09:00-10:30,13i,Conference,4,DK
+2025-04-10,14 SS,10:45-12:15,13i,Conference,4,DK
+2025-04-10,14 SS,12:45-14:15,11ii,Conference,4,GVS
+2025-04-10,14 SS,14:30-16:00,11ii,Conference,4,GVS
+2025-04-10,GH,09:00-10:30,12B,Civil Advocacy,5,BP
+2025-04-10,GH,10:45-12:15,12B,Civil Advocacy,5,BP
+2025-04-10,GH,12:45-14:15,1B,Civil Advocacy,5,BP
+2025-04-10,GH,14:30-16:00,1B,Civil Advocacy,5,BP
+2025-04-10,GRH,09:00-10:30,2A,Civil Advocacy,5,MJ
+2025-04-10,GRH,10:45-12:15,2A,Civil Advocacy,5,MJ
+2025-04-10,GRH,12:45-14:15,2B,Civil Advocacy,5,MJ
+2025-04-10,GRH,14:30-16:00,2B,Civil Advocacy,5,MJ
+2025-04-10,GBIRK,09:00-10:30,3A,Civil Advocacy,5,RY
+2025-04-10,GBIRK,10:45-12:15,3A,Civil Advocacy,5,RY
+2025-04-10,GBIRK,12:45-14:15,3B,Civil Advocacy,5,RY
+2025-04-10,GBIRK,14:30-16:00,3B,Civil Advocacy,5,RY
+2025-04-10,GBING1,09:00-10:30,11,Drafting,3,AF
+2025-04-10,GBING1,10:45-12:15,5,Opinion Writing,4,AF
+2025-04-10,GBING1,12:45-14:15,12,Drafting,3,AF
+2025-04-10,GBING1,14:30-16:00,7,Drafting,3,AF
+2025-04-10,GBING2,09:00-10:30,4,Opinion Writing,4,AU
+2025-04-10,GBING2,12:45-14:15,6,Opinion Writing,4,AU
+2025-04-10,GBING2,14:30-16:00,13,Opinion Writing,4,AU
+2025-04-22,LI6,09:00-10:30,3iii,Conference,5,PA
+2025-04-22,LI6,10:45-12:15,3iii,Conference,5,PA
+2025-04-22,LI6,12:45-14:15,2iii,Conference,5,PA
+2025-04-22,LI6,14:30-16:00,2iii,Conference,5,PA
+2025-04-22,LI7,09:00-10:30,1ii,Conference,5,SS
+2025-04-22,LI7,10:45-12:15,1ii,Conference,5,SS
+2025-04-22,LI7,12:45-14:15,3ii,Conference,5,SS
+2025-04-22,LI7,14:30-16:00,3ii,Conference,5,SS
+2025-04-22,LI8,09:00-10:30,3i,Conference,5,GVS
+2025-04-22,LI8,10:45-12:15,3i,Conference,5,GVS
+2025-04-22,LI8,12:45-14:15,2i,Conference,5,GVS
+2025-04-22,LI8,14:30-16:00,2i,Conference,5,GVS
+2025-04-22,LI9,09:00-10:30,1iii,Conference,5,MS
+2025-04-22,LI9,10:45-12:15,1iii,Conference,5,MS
+2025-04-22,LI9,12:45-14:15,2ii,Conference,5,MS
+2025-04-22,LI9,14:30-16:00,2ii,Conference,5,MS
+2025-04-22,LI10,09:00-10:30,1i,Conference,5,DK
+2025-04-22,LI10,10:45-12:15,1i,Conference,5,DK
+2025-04-22,LI10,12:45-14:15,12i,Conference,5,DK
+2025-04-22,LI10,14:30-16:00,12i,Conference,5,DK
+2025-04-22,14 SS,09:00-10:30,12iii,Conference,5,MM
+2025-04-22,14 SS,10:45-12:15,12iii,Conference,5,MM
+2025-04-22,14 SS,12:45-14:15,12ii,Conference,5,MM
+2025-04-22,14 SS,14:30-16:00,12ii,Conference,5,MM
+2025-04-22,GRH,09:00-10:30,13i,Civil Advocacy,6,BP
+2025-04-22,GRH,10:45-12:15,13ii,Civil Advocacy,6,BP
+2025-04-22,GRH,14:30-16:00,13iii,Civil Advocacy,6,BP
+2025-04-22,GBIRK,09:00-10:30,10i,Civil Advocacy,6,GB
+2025-04-22,GBIRK,10:45-12:15,10ii,Civil Advocacy,6,GB
+2025-04-22,GBIRK,14:30-16:00,10iii,Civil Advocacy,6,GB
+2025-04-23,LI6,09:00-10:30,4i,Conference,5,MM
+2025-04-23,LI6,10:45-12:15,4i,Conference,5,MM
+2025-04-23,LI6,12:45-14:15,5i,Conference,5,MM
+2025-04-23,LI6,14:30-16:00,5i,Conference,5,MM
+2025-04-23,LI7,09:00-10:30,4ii,Conference,5,SS
+2025-04-23,LI7,10:45-12:15,4ii,Conference,5,SS
+2025-04-23,LI7,12:45-14:15,5ii,Conference,5,SS
+2025-04-23,LI7,14:30-16:00,5ii,Conference,5,SS
+2025-04-23,LI8,09:00-10:30,4iii,Conference,5,DK
+2025-04-23,LI8,10:45-12:15,4iii,Conference,5,DK
+2025-04-23,LI8,12:45-14:15,5iii,Conference,5,DK
+2025-04-23,LI8,14:30-16:00,5iii,Conference,5,DK
+2025-04-23,LI9,09:00-10:30,6iii,Conference,5,GVS
+2025-04-23,LI9,10:45-12:15,6iii,Conference,5,GVS
+2025-04-23,LI9,12:45-14:15,13iii,Conference,5,GVS
+2025-04-23,LI9,14:30-16:00,13iii,Conference,5,GVS
+2025-04-23,LI10,09:00-10:30,6i,Conference,5,MS
+2025-04-23,LI10,10:45-12:15,6i,Conference,5,MS
+2025-04-23,LI10,12:45-14:15,6ii,Conference,5,MS
+2025-04-23,LI10,14:30-16:00,6ii,Conference,5,MS
+2025-04-23,14 SS,09:00-10:30,13ii,Conference,5,PA
+2025-04-23,14 SS,10:45-12:15,13ii,Conference,5,PA
+2025-04-23,GH,09:00-10:30,9i,Civil Advocacy,6,LB
+2025-04-23,GH,10:45-12:15,9ii,Civil Advocacy,6,LB
+2025-04-23,GH,14:30-16:00,9iii,Civil Advocacy,6,LB
+2025-04-23,GRH,09:00-10:30,8i,Civil Advocacy,6,GB
+2025-04-23,GRH,10:45-12:15,5ii,Civil Advocacy,6,GB
+2025-04-23,GRH,14:30-16:00,8iii,Civil Advocacy,6,GB
+2025-04-23,GBIRK,09:00-10:30,5i,Civil Advocacy,6,RA
+2025-04-23,GBIRK,10:45-12:15,7i,Civil Advocacy,6,RA
+2025-04-23,GBIRK,14:30-16:00,8ii,Civil Advocacy,6,RA
+2025-04-23,GBING1,09:00-10:30,11i,Civil Advocacy,6,AC
+2025-04-23,GBING1,10:45-12:15,11ii,Civil Advocacy,6,AC
+2025-04-23,GBING1,14:30-16:00,11iii,Civil Advocacy,6,AC
+2025-04-24,LI6,09:00-10:30,9iii,Conference,5,GVS
+2025-04-24,LI6,10:45-12:15,9iii,Conference,5,GVS
+2025-04-24,LI6,12:45-14:15,13i,Conference,5,GVS
+2025-04-24,LI6,14:30-16:00,13i,Conference,5,GVS
+2025-04-24,LI7,09:00-10:30,7ii,Conference,5,KAJ
+2025-04-24,LI7,10:45-12:15,7ii,Conference,5,KAJ
+2025-04-24,LI7,12:45-14:15,8iii,Conference,5,KAJ
+2025-04-24,LI7,14:30-16:00,8iii,Conference,5,KAJ
+2025-04-24,LI8,09:00-10:30,7iii,Conference,5,MM
+2025-04-24,LI8,10:45-12:15,7iii,Conference,5,MM
+2025-04-24,LI8,12:45-14:15,7i,Conference,5,MM
+2025-04-24,LI8,14:30-16:00,7i,Conference,5,MM
+2025-04-24,LI9,09:00-10:30,9i,Conference,5,MS
+2025-04-24,LI9,10:45-12:15,9i,Conference,5,MS
+2025-04-24,LI9,12:45-14:15,8i,Conference,5,MS
+2025-04-24,LI9,14:30-16:00,8i,Conference,5,MS
+2025-04-24,LI10,09:00-10:30,9ii,Conference,5,DK
+2025-04-24,LI10,10:45-12:15,9ii,Conference,5,DK
+2025-04-24,14 SS,09:00-10:30,8ii,Conference,5,SS
+2025-04-24,14 SS,10:45-12:15,8ii,Conference,5,SS
+2025-04-24,GH,09:00-10:30,6i,Civil Advocacy,6,AC
+2025-04-24,GH,10:45-12:15,6ii,Civil Advocacy,6,AC
+2025-04-24,GH,14:30-16:00,6iii,Civil Advocacy,6,AC
+2025-04-24,GRH,09:00-10:30,4iii,Civil Advocacy,6,RS
+2025-04-24,GRH,10:45-12:15,5iii,Civil Advocacy,6,RS
+2025-04-24,GRH,14:30-16:00,7ii,Civil Advocacy,6,RS
+2025-04-24,GBIRK,09:00-10:30,4i,Civil Advocacy,6,MJ
+2025-04-24,GBIRK,10:45-12:15,4ii,Civil Advocacy,6,MJ
+2025-04-24,GBIRK,14:30-16:00,7iii,Civil Advocacy,6,MJ
+2025-04-25,LI6,09:00-10:30,10i,Conference,5,DK
+2025-04-25,LI6,10:45-12:15,10i,Conference,5,DK
+2025-04-25,LI6,12:45-14:15,11iii,Conference,5,SS
+2025-04-25,LI6,14:30-16:00,11iii,Conference,5,SS
+2025-04-25,LI7,09:00-10:30,10iii,Conference,5,PA
+2025-04-25,LI7,10:45-12:15,10iii,Conference,5,PA
+2025-04-25,LI7,12:45-14:15,11i,Conference,5,PA
+2025-04-25,LI7,14:30-16:00,11i,Conference,5,PA
+2025-04-25,LI8,09:00-10:30,10ii,Conference,5,GVS
+2025-04-25,LI8,10:45-12:15,10ii,Conference,5,GVS
+2025-04-25,LI9,09:00-10:30,11ii,Conference,5,MS
+2025-04-25,LI9,10:45-12:15,11ii,Conference,5,MS
+2025-04-25,GH,09:00-10:30,1i,Civil Advocacy,6,MJ
+2025-04-25,GH,10:45-12:15,1ii,Civil Advocacy,6,MJ
+2025-04-25,GH,14:30-16:00,1iii,Civil Advocacy,6,MJ
+2025-04-25,GRH,09:00-10:30,2i,Civil Advocacy,6,AU
+2025-04-25,GRH,10:45-12:15,2ii,Civil Advocacy,6,AU
+2025-04-25,GRH,14:30-16:00,2iii,Civil Advocacy,6,AU
+2025-04-25,GBIRK,09:00-10:30,3i,Civil Advocacy,6,AF
+2025-04-25,GBIRK,10:45-12:15,3ii,Civil Advocacy,6,AF
+2025-04-25,GBIRK,14:30-16:00,3iii,Civil Advocacy,6,AF
+2025-04-25,GBING1,09:00-10:30,12i,Civil Advocacy,6,RS
+2025-04-25,GBING1,10:45-12:15,12ii,Civil Advocacy,6,RS
+2025-04-25,GBING1,14:30-16:00,12iii,Civil Advocacy,6,RS
+2025-04-28,LI6,09:00-10:30,10i,Criminal Advocacy,8,PA
+2025-04-28,LI6,10:45-12:15,2ii,Criminal Advocacy,8,PA
+2025-04-28,LI6,12:45-14:15,12iii,Criminal Advocacy,8,PA
+2025-04-28,LI7,09:00-10:30,1i,Criminal Advocacy,8,SS
+2025-04-28,LI7,10:45-12:15,12ii,Criminal Advocacy,8,SS
+2025-04-28,LI7,12:45-14:15,1iii,Criminal Advocacy,8,SS
+2025-04-28,LI8,09:00-10:30,12i,Criminal Advocacy,8,MM
+2025-04-28,LI8,10:45-12:15,1ii,Criminal Advocacy,8,MM
+2025-04-28,LI8,12:45-14:15,9iii,Criminal Advocacy,8,MM
+2025-04-28,LI9,09:00-10:30,9i,Criminal Advocacy,8,PR
+2025-04-28,LI9,10:45-12:15,13ii,Criminal Advocacy,8,PR
+2025-04-28,LI9,12:45-14:15,2iii,Criminal Advocacy,8,PR
+2025-04-28,LI10,09:00-10:30,2i,Criminal Advocacy,8,DK
+2025-04-28,LI10,10:45-12:15,3ii,Criminal Advocacy,8,DK
+2025-04-28,LI10,12:45-14:15,10iii,Criminal Advocacy,8,DK
+2025-04-28,14 SS,09:00-10:30,13i,Criminal Advocacy,8,MS
+2025-04-28,14 SS,10:45-12:15,10ii,Criminal Advocacy,8,MS
+2025-04-28,14 SS,12:45-14:15,13iii,Criminal Advocacy,8,MS
+2025-04-28,GH,09:00-10:30,4,Drafting,4,BP
+2025-04-28,GH,12:45-14:15,11,Opinion Writing,5,AF
+2025-04-28,GRH,09:00-10:30,5,Drafting,4,AF
+2025-04-28,GRH,10:45-12:15,5,Opinion Writing,5,RA
+2025-04-28,GRH,12:45-14:15,8,Opinion Writing,5,RA
+2025-04-28,GBIRK,09:00-10:30,6,Drafting,4,AC
+2025-04-28,GBIRK,10:45-12:15,4i/6i/7i,Civil Advocacy,7,AC
+2025-04-28,GBIRK,12:45-14:15,4iii/6iii/7iii,Civil Advocacy,7,AC
+2025-04-28,GBING1,10:45-12:15,4ii/6ii/7ii,Civil Advocacy,7,BP
+2025-04-28,GBING2,09:00-10:30,3i,Criminal Advocacy,8,GVS
+2025-04-28,GBING2,10:45-12:15,9ii,Criminal Advocacy,8,GVS
+2025-04-28,GBING2,12:45-14:15,3iii,Criminal Advocacy,8,GVS
+2025-04-29,LI6,09:00-10:30,6i,Criminal Advocacy,8,PR
+2025-04-29,LI6,10:45-12:15,5ii,Criminal Advocacy,8,PR
+2025-04-29,LI6,12:45-14:15,11i,Criminal Advocacy,8,PR
+2025-04-29,LI6,14:30-16:00,6iii,Criminal Advocacy,8,PR
+2025-04-29,LI7,09:00-10:30,5i,Criminal Advocacy,8,MF
+2025-04-29,LI7,10:45-12:15,6ii,Criminal Advocacy,8,MF
+2025-04-29,LI8,09:00-10:30,8i,Criminal Advocacy,8,MM
+2025-04-29,LI8,10:45-12:15,8ii,Criminal Advocacy,8,MM
+2025-04-29,LI8,14:30-16:00,4iii,Criminal Advocacy,8,MM
+2025-04-29,LI9,09:00-10:30,7i,Criminal Advocacy,8,SS
+2025-04-29,LI9,10:45-12:15,4ii,Criminal Advocacy,8,SS
+2025-04-29,LI9,12:45-14:15,11iii,Criminal Advocacy,8,GVS
+2025-04-29,LI9,14:30-16:00,7iii,Criminal Advocacy,8,GVS
+2025-04-29,LI10,09:00-10:30,4i,Criminal Advocacy,8,DK
+2025-04-29,LI10,10:45-12:15,7ii,Criminal Advocacy,8,DK
+2025-04-29,LI10,14:30-16:00,5iii,Criminal Advocacy,8,DK
+2025-04-29,14 SS,12:45-14:15,8iii,Criminal Advocacy,8,MS
+2025-04-29,14 SS,14:30-16:00,11ii,Criminal Advocacy,8,MS
+2025-04-29,GH,09:00-10:30,1,Drafting,4,AU
+2025-04-29,GH,10:45-12:15,2,Drafting,4,AU
+2025-04-29,GH,14:30-16:00,13,Drafting,4,AU
+2025-04-29,GRH,09:00-10:30,9,Opinion Writing,5,RA/MA
+2025-04-29,GRH,10:45-12:15,1,Opinion Writing,5,RA/MA
+2025-04-29,GRH,12:45-14:15,6,Opinion Writing,5,AF
+2025-04-29,GRH,14:30-16:00,3,Opinion Writing,5,RA/MA
+2025-04-29,GBING1,09:00-10:30,11i/12i,Civil Advocacy,7,MJ
+2025-04-29,GBING1,10:45-12:15,9i/10i,Civil Advocacy,7,MJ
+2025-04-29,GBING1,14:30-16:00,9iii/10iii,Civil Advocacy,7,MJ
+2025-04-29,GBING2,09:00-10:30,11ii/12ii,Civil Advocacy,7,BP
+2025-04-29,GBING2,10:45-12:15,9ii/10ii,Civil Advocacy,7,BP
+2025-04-29,GBING2,14:30-16:00,11iii/12iii,Civil Advocacy,7,BP
+2025-04-30,LI6,09:00-10:30,2i,Criminal Advocacy,9,GVS
+2025-04-30,LI6,10:45-12:15,2ii,Criminal Advocacy,9,GVS
+2025-04-30,LI6,14:30-16:00,10iii,Criminal Advocacy,9,GVS
+2025-04-30,LI7,09:00-10:30,13i,Criminal Advocacy,9,PR
+2025-04-30,LI7,10:45-12:15,1ii,Criminal Advocacy,9,PR
+2025-04-30,LI7,14:30-16:00,1iii,Criminal Advocacy,9,PR
+2025-04-30,LI8,09:00-10:30,1i,Criminal Advocacy,9,MS
+2025-04-30,LI8,10:45-12:15,3ii,Criminal Advocacy,9,MS
+2025-04-30,LI8,14:30-16:00,2iii,Criminal Advocacy,9,MS
+2025-04-30,LI9,09:00-10:30,10i,Criminal Advocacy,9,MF
+2025-04-30,LI9,10:45-12:15,12ii,Criminal Advocacy,9,MF
+2025-04-30,LI9,14:30-16:00,3iii,Criminal Advocacy,9,MF
+2025-04-30,LI10,09:00-10:30,9i,Criminal Advocacy,9,PA
+2025-04-30,LI10,10:45-12:15,10ii,Criminal Advocacy,9,PA
+2025-04-30,LI10,14:30-16:00,9iii,Criminal Advocacy,9,PA
+2025-04-30,14 SS,09:00-10:30,12i,Criminal Advocacy,9,DK
+2025-04-30,14 SS,12:45-14:15,12iii,Criminal Advocacy,9,DK
+2025-04-30,14 SS,14:30-16:00,13ii,Criminal Advocacy,9,DK
+2025-04-30,GH,09:00-10:30,3i,Criminal Advocacy,9,SS
+2025-04-30,GH,10:45-12:15,9ii,Criminal Advocacy,9,SS
+2025-04-30,GH,14:30-16:00,13iii,Criminal Advocacy,9,SS
+2025-04-30,GRH,09:00-10:30,7,Drafting,4,AC
+2025-04-30,GRH,12:45-14:15,3i/5i/8i,Civil Advocacy,7,MJ
+2025-04-30,GRH,14:30-16:00,3ii/5ii/8ii,Civil Advocacy,7,MJ
+2025-04-30,GBIRK,12:45-14:15,3iii/5iii/8iii,Civil Advocacy,7,AC
+2025-04-30,GBING1,09:00-10:30,8,Drafting,4,AF
+2025-04-30,GBING1,10:45-12:15,13,Opinion Writing,5,AF
+2025-04-30,GBING1,12:45-14:15,7,Opinion Writing,5,AU
+2025-04-30,GBING1,14:30-16:00,4,Opinion Writing,5,AU
+2025-05-01,LI6,09:00-10:30,4i,Criminal Advocacy,9,SS
+2025-05-01,LI6,10:45-12:15,7ii,Criminal Advocacy,9,SS
+2025-05-01,LI6,12:45-14:15,11iii,Criminal Advocacy,9,MM
+2025-05-01,LI6,14:30-16:00,8iii,Criminal Advocacy,9,MM
+2025-05-01,LI7,09:00-10:30,8i,Criminal Advocacy,9,PA
+2025-05-01,LI7,10:45-12:15,4ii,Criminal Advocacy,9,PA
+2025-05-01,LI7,14:30-16:00,6iii,Criminal Advocacy,9,PA
+2025-05-01,LI8,09:00-10:30,5i,Criminal Advocacy,9,MS
+2025-05-01,LI8,10:45-12:15,8ii,Criminal Advocacy,9,MS
+2025-05-01,LI8,14:30-16:00,5iii,Criminal Advocacy,9,MS
+2025-05-01,LI9,09:00-10:30,7i,Criminal Advocacy,9,PR
+2025-05-01,LI9,10:45-12:15,6ii,Criminal Advocacy,9,PR
+2025-05-01,LI9,14:30-16:00,7iii,Criminal Advocacy,9,PR
+2025-05-01,LI10,09:00-10:30,6i,Criminal Advocacy,9,GVS
+2025-05-01,LI10,10:45-12:15,5ii,Criminal Advocacy,9,GVS
+2025-05-01,LI10,14:30-16:00,4iii,Criminal Advocacy,9,GVS
+2025-05-01,GH,09:00-10:30,1i/2i/13i,Civil Advocacy,7,LB
+2025-05-01,GH,10:45-12:15,10,Drafting,4,AF
+2025-05-01,GH,12:45-14:15,11i,Criminal Advocacy,9,DK
+2025-05-01,GH,14:30-16:00,11ii,Criminal Advocacy,9,DK
+2025-05-01,GRH,09:00-10:30,1ii/2ii/13ii,Civil Advocacy,7,AU
+2025-05-01,GRH,10:45-12:15,2,Opinion Writing,5,AU
+2025-05-01,GRH,12:45-14:15,12,Opinion Writing,5,BP
+2025-05-01,GRH,14:30-16:00,10,Opinion Writing,5,AU
+2025-05-01,GBIRK,14:30-16:00,1iii/2iii/13iii,Civil Advocacy,7,LB
+2025-05-01,GBING1,09:00-10:30,3,Drafting,4,AF
+2025-05-01,GBING2,09:00-10:30,9,Drafting,4,AC
+2025-05-01,GBING2,10:45-12:15,11,Drafting,4,AC
+2025-05-01,GBING2,14:30-16:00,12,Drafting,4,AC
+2025-05-06,LI6,09:00-10:30,,Conference Mocks,,
+2025-05-06,GBING1,09:00-10:30,7,Drafting,5,AF/RY
+2025-05-06,GBING1,10:45-12:15,6,Drafting,5,AF/RY
+2025-05-06,GBING1,14:30-16:00,5,Drafting,5,AF/RY
+2025-05-07,LI6,09:00-10:30,,Conference Mocks,,
+2025-05-07,GBING1,09:00-10:30,4,Drafting,5,BP
+2025-05-07,GBING1,10:45-12:15,3,Drafting,5,BP
+2025-05-07,GBING1,14:30-16:00,8,Drafting,5,BP
+2025-05-08,LI6,09:00-10:30,,Conference Mocks,,
+2025-05-08,GBING1,09:00-10:30,9,Drafting,5,AF
+2025-05-08,GBING1,10:45-12:15,1,Drafting,5,AF
+2025-05-08,GBING1,14:30-16:00,2,Drafting,5,AF
+2025-05-09,LI6,09:00-10:30,,Conference Mocks,,
+2025-05-09,GBING1,09:00-10:30,10,Drafting,5,AU
+2025-05-09,GBING1,10:45-12:15,11,Drafting,5,AU
+2025-05-09,GBING1,12:45-14:15,13,Drafting,5,BP
+2025-05-09,GBING1,14:30-16:00,12,Drafting,5,AU
+2025-05-12,LI6,09:00-10:30,1iii,Conference,6,PA
+2025-05-12,LI6,10:45-12:15,1iii,Conference,6,PA
+2025-05-12,LI6,12:45-14:15,2ii,Conference,6,PA
+2025-05-12,LI6,14:30-16:00,2ii,Conference,6,PA
+2025-05-12,LI7,09:00-10:30,3i,Conference,6,SS
+2025-05-12,LI7,10:45-12:15,3i,Conference,6,SS
+2025-05-12,LI7,12:45-14:15,2i,Conference,6,SS
+2025-05-12,LI7,14:30-16:00,2i,Conference,6,SS
+2025-05-12,LI8,09:00-10:30,3iii,Conference,6,GVS
+2025-05-12,LI8,10:45-12:15,3iii,Conference,6,GVS
+2025-05-12,LI8,12:45-14:15,3ii,Conference,6,GVS
+2025-05-12,LI8,14:30-16:00,3ii,Conference,6,GVS
+2025-05-12,LI9,09:00-10:30,1i,Conference,6,MS
+2025-05-12,LI9,10:45-12:15,1i,Conference,6,MS
+2025-05-12,LI9,12:45-14:15,12i,Conference,6,MS
+2025-05-12,LI9,14:30-16:00,12i,Conference,6,MS
+2025-05-12,LI10,09:00-10:30,1ii,Conference,6,DK
+2025-05-12,LI10,10:45-12:15,1ii,Conference,6,DK
+2025-05-12,LI10,12:45-14:15,2iii,Conference,6,DK
+2025-05-12,LI10,14:30-16:00,2iii,Conference,6,DK
+2025-05-12,14 SS,09:00-10:30,12ii,Conference,6,MF
+2025-05-12,14 SS,10:45-12:15,12ii,Conference,6,MF
+2025-05-12,GH,09:00-10:30,6,Drafting,6,AF
+2025-05-12,GH,10:45-12:15,5,Drafting,6,AF
+2025-05-12,GH,12:45-14:15,13,Drafting,6,BP
+2025-05-12,GH,14:30-16:00,7,Drafting,6,AF
+2025-05-13,LI6,09:00-10:30,4ii,Conference,6,KAJ
+2025-05-13,LI6,10:45-12:15,4ii,Conference,6,KAJ
+2025-05-13,LI6,12:45-14:15,5iii,Conference,6,KAJ
+2025-05-13,LI6,14:30-16:00,5iii,Conference,6,KAJ
+2025-05-13,LI7,09:00-10:30,4i,Conference,6,MF
+2025-05-13,LI7,10:45-12:15,4i,Conference,6,MF
+2025-05-13,LI8,09:00-10:30,6i,Conference,6,GVS
+2025-05-13,LI8,10:45-12:15,6i,Conference,6,GVS
+2025-05-13,LI8,12:45-14:15,5i,Conference,6,GVS
+2025-05-13,LI8,14:30-16:00,5i,Conference,6,GVS
+2025-05-13,LI9,09:00-10:30,6iii,Conference,6,MS
+2025-05-13,LI9,10:45-12:15,6iii,Conference,6,MS
+2025-05-13,LI9,12:45-14:15,5ii,Conference,6,MS
+2025-05-13,LI9,14:30-16:00,5ii,Conference,6,MS
+2025-05-13,LI10,09:00-10:30,4iii,Conference,6,SS
+2025-05-13,LI10,10:45-12:15,4iii,Conference,6,SS
+2025-05-13,LI10,12:45-14:15,6ii,Conference,6,DK
+2025-05-13,LI10,14:30-16:00,6ii,Conference,6,DK
+2025-05-13,14 SS,09:00-10:30,11ii,Conference,6,PA
+2025-05-13,14 SS,10:45-12:15,11ii,Conference,6,PA
+2025-05-13,GH,09:00-10:30,10,Drafting,6,AU
+2025-05-13,GH,10:45-12:15,9,Drafting,6,AU
+2025-05-13,GH,14:30-16:00,11,Drafting,6,AU
+2025-05-14,LI6,09:00-10:30,9iii,Conference,6,SS
+2025-05-14,LI6,10:45-12:15,9iii,Conference,6,SS
+2025-05-14,LI6,12:45-14:15,8i,Conference,6,SS
+2025-05-14,LI6,14:30-16:00,8i,Conference,6,SS
+2025-05-14,LI7,09:00-10:30,7iii,Conference,6,MF
+2025-05-14,LI7,10:45-12:15,7iii,Conference,6,MF
+2025-05-14,LI8,09:00-10:30,9i,Conference,6,GVS
+2025-05-14,LI8,10:45-12:15,9i,Conference,6,GVS
+2025-05-14,LI8,12:45-14:15,8iii,Conference,6,GVS
+2025-05-14,LI8,14:30-16:00,8iii,Conference,6,GVS
+2025-05-14,LI9,09:00-10:30,13ii,Conference,6,MS
+2025-05-14,LI9,10:45-12:15,13ii,Conference,6,MS
+2025-05-14,LI10,09:00-10:30,7ii,Conference,6,DK
+2025-05-14,LI10,10:45-12:15,7ii,Conference,6,DK
+2025-05-14,LI10,12:45-14:15,7i,Conference,6,DK
+2025-05-14,LI10,14:30-16:00,7i,Conference,6,DK
+2025-05-14,14 SS,09:00-10:30,13i,Conference,6,PA
+2025-05-14,14 SS,10:45-12:15,13i,Conference,6,PA
+2025-05-14,14 SS,12:45-14:15,9ii,Conference,6,PA
+2025-05-14,14 SS,14:30-16:00,9ii,Conference,6,PA
+2025-05-14,GH,09:00-10:30,8,Drafting,6,AC
+2025-05-14,GH,10:45-12:15,4,Drafting,6,AC
+2025-05-14,GH,14:30-16:00,12,Drafting,6,AC
+2025-05-15,LI6,09:00-10:30,13iii,Conference,6,MF
+2025-05-15,LI6,10:45-12:15,13iii,Conference,6,MF
+2025-05-15,LI6,12:45-14:15,11iii,Conference,6,KAJ
+2025-05-15,LI6,14:30-16:00,11iii,Conference,6,KAJ
+2025-05-15,LI7,09:00-10:30,10i,Conference,6,MS
+2025-05-15,LI7,10:45-12:15,10i,Conference,6,MS
+2025-05-15,LI7,12:45-14:15,12iii,Conference,6,MS
+2025-05-15,LI7,14:30-16:00,12iii,Conference,6,MS
+2025-05-15,LI8,09:00-10:30,10iii,Conference,6,SS
+2025-05-15,LI8,10:45-12:15,10iii,Conference,6,SS
+2025-05-15,LI8,12:45-14:15,11i,Conference,6,SS
+2025-05-15,LI8,14:30-16:00,11i,Conference,6,SS
+2025-05-15,LI9,09:00-10:30,8ii,Conference,6,GVS
+2025-05-15,LI9,10:45-12:15,8ii,Conference,6,GVS
+2025-05-15,LI10,09:00-10:30,10ii,Conference,6,DK
+2025-05-15,LI10,10:45-12:15,10ii,Conference,6,DK
+2025-05-15,GH,09:00-10:30,1,Drafting,6,AF/RY
+2025-05-15,GH,10:45-12:15,2,Drafting,6,AF/RY
+2025-05-15,GH,14:30-16:00,3,Drafting,6,AF/RY
+2025-05-19,LI6,09:00-10:30,,Criminal Advocacy Mocks,,
+2025-05-19,14 SS,09:00-10:30,,Civil Advocacy Mocks,,
+2025-05-20,LI7,09:00-10:30,,Criminal Advocacy Mocks,,
+2025-05-20,14 SS,09:00-10:30,,Civil Advocacy Mocks,,
+2025-05-21,LI6,09:00-10:30,,Criminal Advocacy Mocks,,
+2025-05-21,14 SS,09:00-10:30,,Civil Advocacy Mocks,,
+2025-05-22,LI6,09:00-10:30,,Criminal Advocacy Mocks,,
+2025-05-22,14 SS,09:00-10:30,,Civil Advocacy Mocks,,
+2025-05-27,LI6,09:00-10:30,5i,Criminal Advocacy,10,GVS
+2025-05-27,LI6,10:45-12:15,13iii,Criminal Advocacy,10,GVS
+2025-05-27,LI6,12:45-14:15,13ii,Criminal Advocacy,10,GVS
+2025-05-27,LI7,09:00-10:30,3iii,Criminal Advocacy,10,RD
+2025-05-27,LI7,10:45-12:15,4i,Criminal Advocacy,10,RD
+2025-05-27,LI7,12:45-14:15,8i,Criminal Advocacy,10,RD
+2025-05-27,LI7,14:30-16:00,2i,Criminal Advocacy,10,RD
+2025-05-27,LI8,09:00-10:30,6ii,Criminal Advocacy,10,DK
+2025-05-27,LI8,10:45-12:15,6iii,Criminal Advocacy,10,DK
+2025-05-27,LI8,12:45-14:15,7i,Criminal Advocacy,10,DK
+2025-05-27,LI8,14:30-16:00,8iii,Criminal Advocacy,10,DK
+2025-05-27,LI9,09:00-10:30,7iii,Criminal Advocacy,10,PA
+2025-05-27,LI9,10:45-12:15,5ii,Criminal Advocacy,10,PA
+2025-05-27,LI9,12:45-14:15,1iii,Criminal Advocacy,10,PA
+2025-05-27,LI9,14:30-16:00,6i,Criminal Advocacy,10,PA
+2025-05-27,LI10,09:00-10:30,2ii,Criminal Advocacy,10,MS
+2025-05-27,LI10,10:45-12:15,7ii,Criminal Advocacy,10,MS
+2025-05-27,LI10,12:45-14:15,9iii,Criminal Advocacy,10,MS
+2025-05-27,LI10,14:30-16:00,3ii,Criminal Advocacy,10,MS
+2025-05-27,14 SS,09:00-10:30,5iii,Criminal Advocacy,10,MF
+2025-05-27,14 SS,10:45-12:15,2iii,Criminal Advocacy,10,MF
+2025-05-27,14 SS,12:45-14:15,3i,Criminal Advocacy,10,MF
+2025-05-27,14 SS,14:30-16:00,8ii,Criminal Advocacy,10,MF
+2025-05-27,GH,09:00-10:30,13i,Criminal Advocacy,10,SS
+2025-05-27,GH,10:45-12:15,1ii,Criminal Advocacy,10,SS
+2025-05-27,GH,12:45-14:15,10i,Criminal Advocacy,10,SS
+2025-05-27,GH,14:30-16:00,4iii,Criminal Advocacy,10,SS
+2025-05-27,GRH,09:00-10:30,4ii,Criminal Advocacy,10,PR
+2025-05-27,GRH,10:45-12:15,11ii,Criminal Advocacy,10,PR
+2025-05-27,GRH,14:30-16:00,12ii,Criminal Advocacy,10,PR
+2025-05-27,GBIRK,09:00-10:30,1iii/2i/3i,Civil Advocacy,8,MJ
+2025-05-27,GBIRK,10:45-12:15,1i/2ii/3ii,Civil Advocacy,8,MJ
+2025-05-27,GBIRK,12:45-14:15,1ii/2iii/3iii,Civil Advocacy,8,MJ
+2025-05-27,GBIRK,14:30-16:00,4ii/5i/6ii,Civil Advocacy,8,MJ
+2025-05-28,LI6,09:00-10:30,1i,Criminal Advocacy,10,PR
+2025-05-28,LI6,10:45-12:15,9ii,Criminal Advocacy,10,PR
+2025-05-28,LI6,14:30-16:00,12iii,Criminal Advocacy,10,PR
+2025-05-28,LI7,09:00-10:30,10iii,Criminal Advocacy,10,PA
+2025-05-28,LI7,10:45-12:15,12i,Criminal Advocacy,10,PA
+2025-05-28,LI7,12:45-14:15,11iii,Criminal Advocacy,10,PA
+2025-05-28,LI7,14:30-16:00,11i,Criminal Advocacy,10,PA
+2025-05-28,LI8,09:00-10:30,7i,Criminal Advocacy,11,MS
+2025-05-28,LI8,10:45-12:15,1ii,Criminal Advocacy,11,MS
+2025-05-28,LI8,12:45-14:15,3i,Criminal Advocacy,11,MS
+2025-05-28,LI8,14:30-16:00,2i,Criminal Advocacy,11,MS
+2025-05-28,LI9,09:00-10:30,6ii,Criminal Advocacy,11,GVS
+2025-05-28,LI9,10:45-12:15,2iii,Criminal Advocacy,11,GVS
+2025-05-28,LI9,12:45-14:15,1iii,Criminal Advocacy,11,GVS
+2025-05-28,LI9,14:30-16:00,3ii,Criminal Advocacy,11,GVS
+2025-05-28,LI10,09:00-10:30,2ii,Criminal Advocacy,11,DK
+2025-05-28,LI10,10:45-12:15,4i,Criminal Advocacy,11,DK
+2025-05-28,LI10,12:45-14:15,4ii,Criminal Advocacy,11,DK
+2025-05-28,LI10,14:30-16:00,4iii,Criminal Advocacy,11,DK
+2025-05-28,14 SS,09:00-10:30,9i,Criminal Advocacy,10,RD
+2025-05-28,14 SS,10:45-12:15,10ii,Criminal Advocacy,10,RD
+2025-05-28,14 SS,14:30-16:00,12ii,Criminal Advocacy,11,RD
+2025-05-28,GH,09:00-10:30,3iii,Criminal Advocacy,11,SS
+2025-05-28,GH,10:45-12:15,6iii,Criminal Advocacy,11,SS
+2025-05-28,GH,14:30-16:00,7ii,Criminal Advocacy,11,SS
+2025-05-28,GRH,09:00-10:30,4i/5iii,Civil Advocacy,8,MJ
+2025-05-28,GRH,10:45-12:15,4iii/5ii,Civil Advocacy,8,MJ
+2025-05-28,GRH,12:45-14:15,7ii/8i/9i,Civil Advocacy,8,AF
+2025-05-28,GRH,14:30-16:00,7iii/8ii,Civil Advocacy,8,AF
+2025-05-28,GBIRK,09:00-10:30,6iii/13i,Civil Advocacy,8,BP
+2025-05-28,GBIRK,10:45-12:15,6i/13ii,Civil Advocacy,8,BP
+2025-05-28,GBIRK,14:30-16:00,9ii/13iii,Civil Advocacy,8,BP
+2025-05-29,LI6,09:00-10:30,5i,Criminal Advocacy,11,RD
+2025-05-29,LI6,10:45-12:15,8ii,Criminal Advocacy,11,RD
+2025-05-29,LI6,12:45-14:15,11i,Criminal Advocacy,11,RD
+2025-05-29,LI6,14:30-16:00,10i,Criminal Advocacy,11,RD
+2025-05-29,LI7,09:00-10:30,7iii,Criminal Advocacy,11,MS
+2025-05-29,LI7,10:45-12:15,8i,Criminal Advocacy,11,MS
+2025-05-29,LI7,14:30-16:00,8iii,Criminal Advocacy,11,MS
+2025-05-29,LI8,09:00-10:30,9i,Criminal Advocacy,11,SS
+2025-05-29,LI8,10:45-12:15,5ii,Criminal Advocacy,11,SS
+2025-05-29,LI8,12:45-14:15,1i,Criminal Advocacy,11,SS
+2025-05-29,LI8,14:30-16:00,6i,Criminal Advocacy,11,SS
+2025-05-29,LI9,09:00-10:30,12iii,Criminal Advocacy,11,DK
+2025-05-29,LI9,10:45-12:15,9ii,Criminal Advocacy,11,DK
+2025-05-29,LI9,14:30-16:00,13iii,Criminal Advocacy,11,DK
+2025-05-29,LI10,09:00-10:30,12i,Criminal Advocacy,11,PR
+2025-05-29,LI10,10:45-12:15,10iii,Criminal Advocacy,11,PR
+2025-05-29,LI10,12:45-14:15,9iii,Criminal Advocacy,11,PR
+2025-05-29,LI10,14:30-16:00,5iii,Criminal Advocacy,11,PR
+2025-05-29,14 SS,09:00-10:30,10ii,Criminal Advocacy,11,GVS
+2025-05-29,14 SS,12:45-14:15,11iii,Criminal Advocacy,11,GVS
+2025-05-29,14 SS,14:30-16:00,11ii,Criminal Advocacy,11,GVS
+2025-05-29,GH,09:00-10:30,13i,Criminal Advocacy,11,MF
+2025-05-29,GH,10:45-12:15,13ii,Criminal Advocacy,11,MF
+2025-05-29,GRH,09:00-10:30,7i/8iii/9iii,Civil Advocacy,8,AF
+2025-05-29,GRH,10:45-12:15,10i/11i/12ii,Civil Advocacy,8,AF
+2025-05-29,GRH,12:45-14:15,10ii/11ii/12iii,Civil Advocacy,8,BP
+2025-05-29,GRH,14:30-16:00,10iii/11iii/12i,Civil Advocacy,8,BP
+2025-05-30,LI6,09:00-10:30,,Drafting Mock,,
+2025-06-02,LI6,09:00-10:30,3A,Criminal Advocacy,12,DK
+2025-06-02,LI6,10:45-12:15,3A,Criminal Advocacy,12,DK
+2025-06-02,LI6,12:45-14:15,3A,Criminal Advocacy,12,DK
+2025-06-02,LI6,14:30-16:00,3A,Criminal Advocacy,12,DK
+2025-06-02,LI7,09:00-10:30,5B,Criminal Advocacy,12,TA
+2025-06-02,LI7,10:45-12:15,5B,Criminal Advocacy,12,TA
+2025-06-02,LI7,12:45-14:15,5B,Criminal Advocacy,12,TA
+2025-06-02,LI7,14:30-16:00,5B,Criminal Advocacy,12,TA
+2025-06-02,LI8,09:00-10:30,8A,Criminal Advocacy,12,DS
+2025-06-02,LI8,10:45-12:15,8A,Criminal Advocacy,12,DS
+2025-06-02,LI8,12:45-14:15,8A,Criminal Advocacy,12,DS
+2025-06-02,LI8,14:30-16:00,8A,Criminal Advocacy,12,DS
+2025-06-02,LI9,09:00-10:30,12A,Criminal Advocacy,12,NR
+2025-06-02,LI9,10:45-12:15,12A,Criminal Advocacy,12,NR
+2025-06-02,LI9,12:45-14:15,12A,Criminal Advocacy,12,NR
+2025-06-02,LI9,14:30-16:00,12A,Criminal Advocacy,12,NR
+2025-06-02,LI10,09:00-10:30,12B,Criminal Advocacy,12,DR
+2025-06-02,LI10,10:45-12:15,12B,Criminal Advocacy,12,DR
+2025-06-02,LI10,12:45-14:15,12B,Criminal Advocacy,12,DR
+2025-06-02,LI10,14:30-16:00,12B,Criminal Advocacy,12,DR
+2025-06-02,GH,09:00-10:30,6,Civil Advocacy,9,MJ
+2025-06-02,GH,10:45-12:15,6,Civil Advocacy,9,MJ
+2025-06-02,GH,12:45-14:15,6,Civil Advocacy,9,MJ
+2025-06-02,GH,14:30-16:00,6,Civil Advocacy,9,MJ
+2025-06-02,GRH,09:00-10:30,7,Civil Advocacy,9,RS
+2025-06-02,GRH,10:45-12:15,7,Civil Advocacy,9,RS
+2025-06-02,GRH,12:45-14:15,7,Civil Advocacy,9,RS
+2025-06-02,GRH,14:30-16:00,7,Civil Advocacy,9,RS
+2025-06-02,GBIRK,09:00-10:30,9,Civil Advocacy,9,tbc
+2025-06-02,GBIRK,10:45-12:15,9,Civil Advocacy,9,tbc
+2025-06-02,GBIRK,12:45-14:15,9,Civil Advocacy,9,tbc
+2025-06-02,GBIRK,14:30-16:00,9,Civil Advocacy,9,tbc
+2025-06-02,GBING1,09:00-10:30,10,Civil Advocacy,9,tbc
+2025-06-02,GBING1,10:45-12:15,10,Civil Advocacy,9,tbc
+2025-06-02,GBING1,12:45-14:15,10,Civil Advocacy,9,tbc
+2025-06-02,GBING1,14:30-16:00,10,Civil Advocacy,9,tbc
+2025-06-03,LI6,09:00-10:30,1A,Criminal Advocacy,12,NLO
+2025-06-03,LI6,10:45-12:15,1A,Criminal Advocacy,12,NLO
+2025-06-03,LI6,12:45-14:15,1A,Criminal Advocacy,12,NLO
+2025-06-03,LI6,14:30-16:00,1A,Criminal Advocacy,12,NLO
+2025-06-03,LI7,09:00-10:30,1B,Criminal Advocacy,12,WK
+2025-06-03,LI7,10:45-12:15,1B,Criminal Advocacy,12,WK
+2025-06-03,LI7,12:45-14:15,1B,Criminal Advocacy,12,WK
+2025-06-03,LI7,14:30-16:00,1B,Criminal Advocacy,12,WK
+2025-06-03,LI8,09:00-10:30,2A,Criminal Advocacy,12,DS
+2025-06-03,LI8,10:45-12:15,2A,Criminal Advocacy,12,DS
+2025-06-03,LI8,12:45-14:15,2A,Criminal Advocacy,12,DS
+2025-06-03,LI8,14:30-16:00,2A,Criminal Advocacy,12,DS
+2025-06-03,LI9,09:00-10:30,2B,Criminal Advocacy,12,GC
+2025-06-03,LI9,10:45-12:15,2B,Criminal Advocacy,12,GC
+2025-06-03,LI9,12:45-14:15,2B,Criminal Advocacy,12,GC
+2025-06-03,LI9,14:30-16:00,2B,Criminal Advocacy,12,GC
+2025-06-03,LI10,09:00-10:30,13A,Criminal Advocacy,12,HS
+2025-06-03,LI10,10:45-12:15,13A,Criminal Advocacy,12,HS
+2025-06-03,LI10,12:45-14:15,13A,Criminal Advocacy,12,HS
+2025-06-03,LI10,14:30-16:00,13A,Criminal Advocacy,12,HS
+2025-06-03,GH,09:00-10:30,4,Civil Advocacy,9,LB
+2025-06-03,GH,10:45-12:15,4,Civil Advocacy,9,LB
+2025-06-03,GH,12:45-14:15,4,Civil Advocacy,9,LB
+2025-06-03,GH,14:30-16:00,4,Civil Advocacy,9,LB
+2025-06-03,GRH,09:00-10:30,5,Civil Advocacy,9,MJ
+2025-06-03,GRH,10:45-12:15,5,Civil Advocacy,9,MJ
+2025-06-03,GRH,12:45-14:15,5,Civil Advocacy,9,MJ
+2025-06-03,GRH,14:30-16:00,5,Civil Advocacy,9,MJ
+2025-06-04,LI6,09:00-10:30,3B,Criminal Advocacy,12,TA
+2025-06-04,LI6,10:45-12:15,3B,Criminal Advocacy,12,TA
+2025-06-04,LI6,12:45-14:15,3B,Criminal Advocacy,12,TA
+2025-06-04,LI6,14:30-16:00,3B,Criminal Advocacy,12,TA
+2025-06-04,LI7,09:00-10:30,4A,Criminal Advocacy,12,SON
+2025-06-04,LI7,10:45-12:15,4A,Criminal Advocacy,12,SON
+2025-06-04,LI7,12:45-14:15,4A,Criminal Advocacy,12,SON
+2025-06-04,LI7,14:30-16:00,4A,Criminal Advocacy,12,SON
+2025-06-04,LI8,09:00-10:30,4B,Criminal Advocacy,12,WK
+2025-06-04,LI8,10:45-12:15,4B,Criminal Advocacy,12,WK
+2025-06-04,LI8,12:45-14:15,4B,Criminal Advocacy,12,WK
+2025-06-04,LI8,14:30-16:00,4B,Criminal Advocacy,12,WK
+2025-06-04,LI9,09:00-10:30,5A,Criminal Advocacy,12,NLO
+2025-06-04,LI9,10:45-12:15,5A,Criminal Advocacy,12,NLO
+2025-06-04,LI9,12:45-14:15,5A,Criminal Advocacy,12,NLO
+2025-06-04,LI9,14:30-16:00,5A,Criminal Advocacy,12,DS
+2025-06-04,LI10,09:00-10:30,8B,Criminal Advocacy,12,DR
+2025-06-04,LI10,10:45-12:15,8B,Criminal Advocacy,12,DR
+2025-06-04,LI10,12:45-14:15,8B,Criminal Advocacy,12,DR
+2025-06-04,LI10,14:30-16:00,8B,Criminal Advocacy,12,DR
+2025-06-04,GH,09:00-10:30,1,Civil Advocacy,9,LB
+2025-06-04,GH,10:45-12:15,1,Civil Advocacy,9,LB
+2025-06-04,GH,12:45-14:15,1,Civil Advocacy,9,LB
+2025-06-04,GH,14:30-16:00,1,Civil Advocacy,9,LB
+2025-06-04,GRH,09:00-10:30,2,Civil Advocacy,9,MJ
+2025-06-04,GRH,10:45-12:15,2,Civil Advocacy,9,MJ
+2025-06-04,GRH,12:45-14:15,2,Civil Advocacy,9,MJ
+2025-06-04,GRH,14:30-16:00,2,Civil Advocacy,9,MJ
+2025-06-04,GBIRK,09:00-10:30,13B,Criminal Advocacy,12,HS
+2025-06-04,GBIRK,10:45-12:15,13B,Criminal Advocacy,12,HS
+2025-06-04,GBIRK,12:45-14:15,13B,Criminal Advocacy,12,HS
+2025-06-04,GBIRK,14:30-16:00,13B,Criminal Advocacy,12,HS
+2025-06-05,LI6,09:00-10:30,6A,Criminal Advocacy,12,DS
+2025-06-05,LI6,10:45-12:15,6A,Criminal Advocacy,12,DS
+2025-06-05,LI6,12:45-14:15,6A,Criminal Advocacy,12,DS
+2025-06-05,LI6,14:30-16:00,6A,Criminal Advocacy,12,DS
+2025-06-05,LI7,09:00-10:30,6B,Criminal Advocacy,12,TA
+2025-06-05,LI7,10:45-12:15,6B,Criminal Advocacy,12,TA
+2025-06-05,LI7,12:45-14:15,6B,Criminal Advocacy,12,TA
+2025-06-05,LI7,14:30-16:00,6B,Criminal Advocacy,12,TA
+2025-06-05,LI8,09:00-10:30,7A,Criminal Advocacy,12,NR
+2025-06-05,LI8,10:45-12:15,7A,Criminal Advocacy,12,NR
+2025-06-05,LI8,12:45-14:15,7A,Criminal Advocacy,12,NR
+2025-06-05,LI8,14:30-16:00,7A,Criminal Advocacy,12,NR
+2025-06-05,LI9,09:00-10:30,7B,Criminal Advocacy,12,WK
+2025-06-05,LI9,10:45-12:15,7B,Criminal Advocacy,12,WK
+2025-06-05,LI9,12:45-14:15,7B,Criminal Advocacy,12,WK
+2025-06-05,LI9,14:30-16:00,7B,Criminal Advocacy,12,WK
+2025-06-05,LI10,09:00-10:30,9A,Criminal Advocacy,12,SON
+2025-06-05,LI10,10:45-12:15,9A,Criminal Advocacy,12,SON
+2025-06-05,LI10,12:45-14:15,9A,Criminal Advocacy,12,SON
+2025-06-05,LI10,14:30-16:00,9A,Criminal Advocacy,12,SON
+2025-06-05,GH,09:00-10:30,8,Civil Advocacy,9,MJ
+2025-06-05,GH,10:45-12:15,8,Civil Advocacy,9,MJ
+2025-06-05,GH,12:45-14:15,8,Civil Advocacy,9,MJ
+2025-06-05,GH,14:30-16:00,8,Civil Advocacy,9,MJ
+2025-06-05,GRH,09:00-10:30,11,Civil Advocacy,9,LB
+2025-06-05,GRH,10:45-12:15,11,Civil Advocacy,9,LB
+2025-06-05,GRH,12:45-14:15,11,Civil Advocacy,9,LB
+2025-06-05,GRH,14:30-16:00,11,Civil Advocacy,9,LB
+2025-06-05,GBIRK,09:00-10:30,13,Civil Advocacy,9,tbc
+2025-06-05,GBIRK,10:45-12:15,13,Civil Advocacy,9,tbc
+2025-06-05,GBIRK,12:45-14:15,13,Civil Advocacy,9,tbc
+2025-06-05,GBIRK,14:30-16:00,13,Civil Advocacy,9,tbc
+2025-06-06,LI6,09:00-10:30,9B,Criminal Advocacy,12,TA
+2025-06-06,LI6,10:45-12:15,9B,Criminal Advocacy,12,TA
+2025-06-06,LI6,12:45-14:15,9B,Criminal Advocacy,12,TA
+2025-06-06,LI6,14:30-16:00,9B,Criminal Advocacy,12,TA
+2025-06-06,LI7,09:00-10:30,10A,Criminal Advocacy,12,NR
+2025-06-06,LI7,10:45-12:15,10A,Criminal Advocacy,12,NR
+2025-06-06,LI7,12:45-14:15,10A,Criminal Advocacy,12,NR
+2025-06-06,LI7,14:30-16:00,10A,Criminal Advocacy,12,NR
+2025-06-06,LI8,09:00-10:30,10B,Criminal Advocacy,12,WK
+2025-06-06,LI8,10:45-12:15,10B,Criminal Advocacy,12,WK
+2025-06-06,LI8,12:45-14:15,10B,Criminal Advocacy,12,WK
+2025-06-06,LI8,14:30-16:00,10B,Criminal Advocacy,12,WK
+2025-06-06,LI9,09:00-10:30,11A,Criminal Advocacy,12,DS
+2025-06-06,LI9,10:45-12:15,11A,Criminal Advocacy,12,DS
+2025-06-06,LI9,12:45-14:15,11A,Criminal Advocacy,12,DS
+2025-06-06,LI9,14:30-16:00,11A,Criminal Advocacy,12,DS
+2025-06-06,LI10,09:00-10:30,11B,Criminal Advocacy,12,DR
+2025-06-06,LI10,10:45-12:15,11B,Criminal Advocacy,12,DR
+2025-06-06,LI10,12:45-14:15,11B,Criminal Advocacy,12,DR
+2025-06-06,LI10,14:30-16:00,11B,Criminal Advocacy,12,DR
+2025-06-06,GH,09:00-10:30,3,Civil Advocacy,9,tbc
+2025-06-06,GH,10:45-12:15,3,Civil Advocacy,9,tbc
+2025-06-06,GH,12:45-14:15,3,Civil Advocacy,9,tbc
+2025-06-06,GH,14:30-16:00,3,Civil Advocacy,9,tbc
+2025-06-06,GRH,09:00-10:30,12,Civil Advocacy,9,tbc
+2025-06-06,GRH,10:45-12:15,12,Civil Advocacy,9,tbc
+2025-06-06,GRH,12:45-14:15,12,Civil Advocacy,9,tbc
+2025-06-06,GRH,14:30-16:00,12,Civil Advocacy,9,tbc
